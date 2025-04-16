@@ -1,0 +1,1587 @@
+2025-04-16 18:27:41,145 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:34:26,855 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:35:29,603 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:36:33,409 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:39:08,014 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:39:18,751 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:40:34,377 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:43:37,184 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 18:43:38,095 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 18:43:38,096 - INFO - Schema registered for retail_data_test-value with ID 100001
+2025-04-16 18:43:38,248 - INFO - Data loaded successfully from CSV
+2025-04-16 18:43:39,140 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 18:53:35,863 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 18:53:35,976 - INFO - Data loaded successfully from CSV
+2025-04-16 18:53:36,861 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 18:54:36,371 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 18:54:36,490 - INFO - Data loaded successfully from CSV
+2025-04-16 18:54:37,340 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 18:58:10,013 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 18:58:10,085 - INFO - Data loaded successfully from CSV
+2025-04-16 18:58:10,962 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 19:01:42,223 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 19:01:42,322 - INFO - Data loaded successfully from CSV
+2025-04-16 19:01:43,205 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 19:05:56,640 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 19:05:56,717 - INFO - Data loaded successfully from CSV
+2025-04-16 19:05:57,608 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 19:10:58,617 - ERROR - Delivery failed for User record b'0': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 19:11:19,632 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 19:11:19,703 - INFO - Data loaded successfully from CSV
+2025-04-16 19:11:20,591 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 19:12:29,527 - INFO - HTTP Request: GET https://pkc-619z3.us-east1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-16 19:12:29,528 - ERROR - Failed to get schema: Not Found (HTTP status code 404, SR code None)
+2025-04-16 19:18:13,799 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 19:18:13,999 - INFO - Data loaded successfully from CSV
+2025-04-16 19:18:14,915 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 19:22:18,217 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-16 19:22:18,395 - INFO - Data loaded successfully from CSV
+2025-04-16 19:22:19,341 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-16 19:27:20,270 - ERROR - Delivery failed for User record b'0': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 19:32:23,137 - ERROR - Delivery failed for User record b'1': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 19:37:25,947 - ERROR - Delivery failed for User record b'2': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 19:42:28,459 - ERROR - Delivery failed for User record b'3': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 21:20:38,390 - ERROR - Delivery failed for User record b'4': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 21:25:41,374 - ERROR - Delivery failed for User record b'5': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 21:30:43,846 - ERROR - Delivery failed for User record b'6': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 21:35:45,989 - ERROR - Delivery failed for User record b'7': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 23:38:35,717 - ERROR - Delivery failed for User record b'8': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 23:52:20,840 - ERROR - Delivery failed for User record b'9': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-16 23:57:23,350 - ERROR - Delivery failed for User record b'10': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:02:25,822 - ERROR - Delivery failed for User record b'11': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:07:28,386 - ERROR - Delivery failed for User record b'12': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:12:30,753 - ERROR - Delivery failed for User record b'13': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:17:33,213 - ERROR - Delivery failed for User record b'14': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:22:35,919 - ERROR - Delivery failed for User record b'15': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:27:38,482 - ERROR - Delivery failed for User record b'16': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:32:41,236 - ERROR - Delivery failed for User record b'17': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:37:43,689 - ERROR - Delivery failed for User record b'18': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:39:14,400 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-17 00:39:14,702 - INFO - Data loaded successfully from CSV
+2025-04-17 00:39:15,601 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-17 00:44:15,856 - ERROR - Delivery failed for User record b'0': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 00:51:00,115 - INFO - HTTP Request: GET https://pkc-619z3.us-east1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 404 Not Found"
+2025-04-17 00:51:00,117 - ERROR - Failed to get schema: Not Found (HTTP status code 404, SR code None)
+2025-04-17 00:55:00,745 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-17 00:55:01,031 - INFO - Data loaded successfully from CSV
+2025-04-17 00:55:01,892 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-17 00:58:47,347 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 401 Unauthorized"
+2025-04-17 00:58:47,351 - ERROR - Failed to get schema: Unauthorized (HTTP status code 401, SR code 401)
+2025-04-17 00:59:42,332 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-17 00:59:42,603 - INFO - Data loaded successfully from CSV
+2025-04-17 00:59:43,560 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-17 01:04:43,770 - ERROR - Delivery failed for User record b'0': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:09:10,935 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-17 01:09:10,940 - INFO - Schema fetched for retail_data_test-value
+2025-04-17 01:09:11,270 - INFO - Data loaded successfully from CSV
+2025-04-17 01:09:12,266 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-17 01:14:13,174 - ERROR - Delivery failed for User record b'0': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:13,176 - ERROR - Delivery failed for User record b'1': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:14,194 - ERROR - Delivery failed for User record b'2': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:14,195 - ERROR - Delivery failed for User record b'3': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:15,209 - ERROR - Delivery failed for User record b'4': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:15,209 - ERROR - Delivery failed for User record b'5': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:16,217 - ERROR - Delivery failed for User record b'6': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:16,217 - ERROR - Delivery failed for User record b'7': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:17,233 - ERROR - Delivery failed for User record b'8': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:17,233 - ERROR - Delivery failed for User record b'9': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:18,243 - ERROR - Delivery failed for User record b'10': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:18,243 - ERROR - Delivery failed for User record b'11': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:19,256 - ERROR - Delivery failed for User record b'12': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:19,256 - ERROR - Delivery failed for User record b'13': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:20,263 - ERROR - Delivery failed for User record b'14': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:20,263 - ERROR - Delivery failed for User record b'15': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:21,271 - ERROR - Delivery failed for User record b'16': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:21,271 - ERROR - Delivery failed for User record b'17': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:22,277 - ERROR - Delivery failed for User record b'18': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:22,278 - ERROR - Delivery failed for User record b'19': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:23,281 - ERROR - Delivery failed for User record b'20': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:23,282 - ERROR - Delivery failed for User record b'21': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:24,296 - ERROR - Delivery failed for User record b'22': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:24,296 - ERROR - Delivery failed for User record b'23': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:25,316 - ERROR - Delivery failed for User record b'24': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:25,316 - ERROR - Delivery failed for User record b'25': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:26,334 - ERROR - Delivery failed for User record b'26': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:26,335 - ERROR - Delivery failed for User record b'27': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:27,345 - ERROR - Delivery failed for User record b'28': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:27,346 - ERROR - Delivery failed for User record b'29': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:28,354 - ERROR - Delivery failed for User record b'30': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:28,354 - ERROR - Delivery failed for User record b'31': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:29,376 - ERROR - Delivery failed for User record b'32': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:29,376 - ERROR - Delivery failed for User record b'33': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:30,394 - ERROR - Delivery failed for User record b'34': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:30,394 - ERROR - Delivery failed for User record b'35': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:31,408 - ERROR - Delivery failed for User record b'36': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:31,408 - ERROR - Delivery failed for User record b'37': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:32,430 - ERROR - Delivery failed for User record b'38': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:32,430 - ERROR - Delivery failed for User record b'39': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:33,441 - ERROR - Delivery failed for User record b'40': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:33,441 - ERROR - Delivery failed for User record b'41': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:34,455 - ERROR - Delivery failed for User record b'42': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:34,455 - ERROR - Delivery failed for User record b'43': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:35,464 - ERROR - Delivery failed for User record b'44': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:35,465 - ERROR - Delivery failed for User record b'45': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:36,476 - ERROR - Delivery failed for User record b'46': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:36,477 - ERROR - Delivery failed for User record b'47': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:37,506 - ERROR - Delivery failed for User record b'48': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:37,506 - ERROR - Delivery failed for User record b'49': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:38,512 - ERROR - Delivery failed for User record b'50': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:38,512 - ERROR - Delivery failed for User record b'51': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:39,521 - ERROR - Delivery failed for User record b'52': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:39,521 - ERROR - Delivery failed for User record b'53': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:40,538 - ERROR - Delivery failed for User record b'54': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:40,539 - ERROR - Delivery failed for User record b'55': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:41,548 - ERROR - Delivery failed for User record b'56': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:41,548 - ERROR - Delivery failed for User record b'57': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:42,564 - ERROR - Delivery failed for User record b'58': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:42,565 - ERROR - Delivery failed for User record b'59': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:43,580 - ERROR - Delivery failed for User record b'60': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:43,581 - ERROR - Delivery failed for User record b'61': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:44,593 - ERROR - Delivery failed for User record b'62': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:44,593 - ERROR - Delivery failed for User record b'63': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:45,613 - ERROR - Delivery failed for User record b'64': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:45,613 - ERROR - Delivery failed for User record b'65': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:46,634 - ERROR - Delivery failed for User record b'66': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:46,634 - ERROR - Delivery failed for User record b'67': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:47,656 - ERROR - Delivery failed for User record b'68': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:47,657 - ERROR - Delivery failed for User record b'69': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:48,687 - ERROR - Delivery failed for User record b'70': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:48,687 - ERROR - Delivery failed for User record b'71': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:49,718 - ERROR - Delivery failed for User record b'72': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:49,718 - ERROR - Delivery failed for User record b'73': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:50,747 - ERROR - Delivery failed for User record b'74': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:50,747 - ERROR - Delivery failed for User record b'75': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:51,777 - ERROR - Delivery failed for User record b'76': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:51,777 - ERROR - Delivery failed for User record b'77': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:52,808 - ERROR - Delivery failed for User record b'78': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:52,808 - ERROR - Delivery failed for User record b'79': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:53,841 - ERROR - Delivery failed for User record b'80': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:53,842 - ERROR - Delivery failed for User record b'81': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:54,873 - ERROR - Delivery failed for User record b'82': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:54,873 - ERROR - Delivery failed for User record b'83': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:55,894 - ERROR - Delivery failed for User record b'84': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:55,894 - ERROR - Delivery failed for User record b'85': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:56,898 - ERROR - Delivery failed for User record b'86': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:56,898 - ERROR - Delivery failed for User record b'87': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:57,915 - ERROR - Delivery failed for User record b'88': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:57,916 - ERROR - Delivery failed for User record b'89': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:58,928 - ERROR - Delivery failed for User record b'90': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:58,928 - ERROR - Delivery failed for User record b'91': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:59,946 - ERROR - Delivery failed for User record b'92': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:14:59,946 - ERROR - Delivery failed for User record b'93': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:00,953 - ERROR - Delivery failed for User record b'94': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:00,953 - ERROR - Delivery failed for User record b'95': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:01,982 - ERROR - Delivery failed for User record b'96': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:01,983 - ERROR - Delivery failed for User record b'97': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:03,002 - ERROR - Delivery failed for User record b'98': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:03,003 - ERROR - Delivery failed for User record b'99': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:04,026 - ERROR - Delivery failed for User record b'100': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:04,027 - ERROR - Delivery failed for User record b'101': KafkaError{code=_MSG_TIMED_OUT,val=-192,str="Local: Message timed out"}
+2025-04-17 01:15:50,892 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-17 01:15:50,895 - INFO - Schema fetched for retail_data_test-value
+2025-04-17 01:15:51,231 - INFO - Data loaded successfully from CSV
+2025-04-17 01:15:52,222 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-17 01:15:56,877 - INFO - User record b'0' successfully produced to retail_data_test [1] at offset 0
+2025-04-17 01:15:56,877 - INFO - User record b'1' successfully produced to retail_data_test [1] at offset 1
+2025-04-17 01:15:56,877 - INFO - User record b'2' successfully produced to retail_data_test [1] at offset 2
+2025-04-17 01:15:56,877 - INFO - User record b'3' successfully produced to retail_data_test [1] at offset 3
+2025-04-17 01:15:57,381 - INFO - User record b'8' successfully produced to retail_data_test [1] at offset 4
+2025-04-17 01:15:57,381 - INFO - User record b'9' successfully produced to retail_data_test [1] at offset 5
+2025-04-17 01:15:57,381 - INFO - User record b'4' successfully produced to retail_data_test [0] at offset 0
+2025-04-17 01:15:57,381 - INFO - User record b'5' successfully produced to retail_data_test [0] at offset 1
+2025-04-17 01:15:57,381 - INFO - User record b'6' successfully produced to retail_data_test [0] at offset 2
+2025-04-17 01:15:57,381 - INFO - User record b'7' successfully produced to retail_data_test [0] at offset 3
+2025-04-17 01:15:57,889 - INFO - User record b'10' successfully produced to retail_data_test [1] at offset 6
+2025-04-17 01:15:58,405 - INFO - User record b'11' successfully produced to retail_data_test [1] at offset 7
+2025-04-17 01:15:58,909 - INFO - User record b'12' successfully produced to retail_data_test [1] at offset 8
+2025-04-17 01:15:59,426 - INFO - User record b'13' successfully produced to retail_data_test [1] at offset 9
+2025-04-17 01:15:59,937 - INFO - User record b'14' successfully produced to retail_data_test [0] at offset 4
+2025-04-17 01:16:00,441 - INFO - User record b'15' successfully produced to retail_data_test [0] at offset 5
+2025-04-17 01:16:00,948 - INFO - User record b'16' successfully produced to retail_data_test [0] at offset 6
+2025-04-17 01:16:01,461 - INFO - User record b'17' successfully produced to retail_data_test [0] at offset 7
+2025-04-17 01:16:01,973 - INFO - User record b'18' successfully produced to retail_data_test [1] at offset 10
+2025-04-17 01:16:02,490 - INFO - User record b'19' successfully produced to retail_data_test [1] at offset 11
+2025-04-17 01:16:03,003 - INFO - User record b'20' successfully produced to retail_data_test [0] at offset 8
+2025-04-17 01:16:03,516 - INFO - User record b'21' successfully produced to retail_data_test [0] at offset 9
+2025-04-17 01:16:04,018 - INFO - User record b'22' successfully produced to retail_data_test [0] at offset 10
+2025-04-17 01:16:04,520 - INFO - User record b'23' successfully produced to retail_data_test [0] at offset 11
+2025-04-17 01:16:05,034 - INFO - User record b'24' successfully produced to retail_data_test [1] at offset 12
+2025-04-17 01:16:05,536 - INFO - User record b'25' successfully produced to retail_data_test [1] at offset 13
+2025-04-17 01:16:06,052 - INFO - User record b'26' successfully produced to retail_data_test [1] at offset 14
+2025-04-17 01:16:06,556 - INFO - User record b'27' successfully produced to retail_data_test [1] at offset 15
+2025-04-17 01:16:07,071 - INFO - User record b'28' successfully produced to retail_data_test [0] at offset 12
+2025-04-17 01:16:08,098 - INFO - User record b'30' successfully produced to retail_data_test [1] at offset 16
+2025-04-17 01:16:08,098 - INFO - User record b'29' successfully produced to retail_data_test [0] at offset 13
+2025-04-17 01:16:08,614 - INFO - User record b'31' successfully produced to retail_data_test [1] at offset 17
+2025-04-17 01:16:09,116 - INFO - User record b'32' successfully produced to retail_data_test [1] at offset 18
+2025-04-17 01:16:09,632 - INFO - User record b'33' successfully produced to retail_data_test [1] at offset 19
+2025-04-17 01:16:10,135 - INFO - User record b'34' successfully produced to retail_data_test [0] at offset 14
+2025-04-17 01:16:10,637 - INFO - User record b'35' successfully produced to retail_data_test [0] at offset 15
+2025-04-17 01:16:11,138 - INFO - User record b'36' successfully produced to retail_data_test [0] at offset 16
+2025-04-17 01:16:11,642 - INFO - User record b'37' successfully produced to retail_data_test [0] at offset 17
+2025-04-17 01:16:12,142 - INFO - User record b'38' successfully produced to retail_data_test [1] at offset 20
+2025-04-17 01:16:12,659 - INFO - User record b'39' successfully produced to retail_data_test [1] at offset 21
+2025-04-17 01:16:13,171 - INFO - User record b'40' successfully produced to retail_data_test [0] at offset 18
+2025-04-17 01:16:13,678 - INFO - User record b'41' successfully produced to retail_data_test [0] at offset 19
+2025-04-17 01:16:14,180 - INFO - User record b'42' successfully produced to retail_data_test [0] at offset 20
+2025-04-17 01:16:14,685 - INFO - User record b'43' successfully produced to retail_data_test [0] at offset 21
+2025-04-17 01:16:15,188 - INFO - User record b'44' successfully produced to retail_data_test [1] at offset 22
+2025-04-17 01:16:15,704 - INFO - User record b'45' successfully produced to retail_data_test [1] at offset 23
+2025-04-17 01:16:16,215 - INFO - User record b'46' successfully produced to retail_data_test [1] at offset 24
+2025-04-17 01:16:16,732 - INFO - User record b'47' successfully produced to retail_data_test [1] at offset 25
+2025-04-17 01:16:17,246 - INFO - User record b'48' successfully produced to retail_data_test [0] at offset 22
+2025-04-17 01:16:17,761 - INFO - User record b'49' successfully produced to retail_data_test [0] at offset 23
+2025-04-17 01:16:18,266 - INFO - User record b'50' successfully produced to retail_data_test [1] at offset 26
+2025-04-17 01:16:18,769 - INFO - User record b'51' successfully produced to retail_data_test [1] at offset 27
+2025-04-17 01:16:19,283 - INFO - User record b'52' successfully produced to retail_data_test [1] at offset 28
+2025-04-17 01:16:19,785 - INFO - User record b'53' successfully produced to retail_data_test [1] at offset 29
+2025-04-17 01:16:20,289 - INFO - User record b'54' successfully produced to retail_data_test [0] at offset 24
+2025-04-17 01:16:20,805 - INFO - User record b'55' successfully produced to retail_data_test [0] at offset 25
+2025-04-17 01:16:21,321 - INFO - User record b'56' successfully produced to retail_data_test [0] at offset 26
+2025-04-17 01:16:21,838 - INFO - User record b'57' successfully produced to retail_data_test [0] at offset 27
+2025-04-17 01:16:22,350 - INFO - User record b'58' successfully produced to retail_data_test [1] at offset 30
+2025-04-17 01:16:22,866 - INFO - User record b'59' successfully produced to retail_data_test [1] at offset 31
+2025-04-17 01:16:23,380 - INFO - User record b'60' successfully produced to retail_data_test [0] at offset 28
+2025-04-17 01:16:23,886 - INFO - User record b'61' successfully produced to retail_data_test [0] at offset 29
+2025-04-17 01:16:24,393 - INFO - User record b'62' successfully produced to retail_data_test [0] at offset 30
+2025-04-17 01:16:24,897 - INFO - User record b'63' successfully produced to retail_data_test [0] at offset 31
+2025-04-17 01:16:25,399 - INFO - User record b'64' successfully produced to retail_data_test [1] at offset 32
+2025-04-17 01:16:25,901 - INFO - User record b'65' successfully produced to retail_data_test [1] at offset 33
+2025-04-17 01:16:26,406 - INFO - User record b'66' successfully produced to retail_data_test [1] at offset 34
+2025-04-17 01:16:26,921 - INFO - User record b'67' successfully produced to retail_data_test [1] at offset 35
+2025-04-17 01:16:27,423 - INFO - User record b'68' successfully produced to retail_data_test [0] at offset 32
+2025-04-17 01:16:27,928 - INFO - User record b'69' successfully produced to retail_data_test [0] at offset 33
+2025-04-17 01:16:28,440 - INFO - User record b'70' successfully produced to retail_data_test [1] at offset 36
+2025-04-17 01:16:28,948 - INFO - User record b'71' successfully produced to retail_data_test [1] at offset 37
+2025-04-17 01:16:29,461 - INFO - User record b'72' successfully produced to retail_data_test [1] at offset 38
+2025-04-17 01:16:29,968 - INFO - User record b'73' successfully produced to retail_data_test [1] at offset 39
+2025-04-17 01:16:30,483 - INFO - User record b'74' successfully produced to retail_data_test [0] at offset 34
+2025-04-17 01:16:30,985 - INFO - User record b'75' successfully produced to retail_data_test [0] at offset 35
+2025-04-17 01:16:31,488 - INFO - User record b'76' successfully produced to retail_data_test [0] at offset 36
+2025-04-17 01:16:32,004 - INFO - User record b'77' successfully produced to retail_data_test [0] at offset 37
+2025-04-17 01:16:33,034 - INFO - User record b'78' successfully produced to retail_data_test [1] at offset 40
+2025-04-17 01:16:33,550 - INFO - User record b'79' successfully produced to retail_data_test [1] at offset 41
+2025-04-17 01:16:33,550 - INFO - User record b'80' successfully produced to retail_data_test [0] at offset 38
+2025-04-17 01:16:34,054 - INFO - User record b'81' successfully produced to retail_data_test [0] at offset 39
+2025-04-17 01:16:34,557 - INFO - User record b'82' successfully produced to retail_data_test [0] at offset 40
+2025-04-17 01:16:35,061 - INFO - User record b'83' successfully produced to retail_data_test [0] at offset 41
+2025-04-17 01:16:35,568 - INFO - User record b'84' successfully produced to retail_data_test [1] at offset 42
+2025-04-17 01:16:36,071 - INFO - User record b'85' successfully produced to retail_data_test [1] at offset 43
+2025-04-17 01:16:36,577 - INFO - User record b'86' successfully produced to retail_data_test [1] at offset 44
+2025-04-17 01:16:37,080 - INFO - User record b'87' successfully produced to retail_data_test [1] at offset 45
+2025-04-17 01:16:37,596 - INFO - User record b'88' successfully produced to retail_data_test [0] at offset 42
+2025-04-17 01:16:38,100 - INFO - User record b'89' successfully produced to retail_data_test [0] at offset 43
+2025-04-17 01:16:38,603 - INFO - User record b'90' successfully produced to retail_data_test [1] at offset 46
+2025-04-17 01:16:39,104 - INFO - User record b'91' successfully produced to retail_data_test [1] at offset 47
+2025-04-17 01:16:39,608 - INFO - User record b'92' successfully produced to retail_data_test [1] at offset 48
+2025-04-17 01:16:40,112 - INFO - User record b'93' successfully produced to retail_data_test [1] at offset 49
+2025-04-17 01:16:40,626 - INFO - User record b'94' successfully produced to retail_data_test [0] at offset 44
+2025-04-17 01:16:41,128 - INFO - User record b'95' successfully produced to retail_data_test [0] at offset 45
+2025-04-17 01:16:41,644 - INFO - User record b'96' successfully produced to retail_data_test [0] at offset 46
+2025-04-17 01:16:42,152 - INFO - User record b'97' successfully produced to retail_data_test [0] at offset 47
+2025-04-17 01:16:42,653 - INFO - User record b'98' successfully produced to retail_data_test [1] at offset 50
+2025-04-17 01:16:43,156 - INFO - User record b'99' successfully produced to retail_data_test [1] at offset 51
+2025-04-17 01:16:43,659 - INFO - User record b'100' successfully produced to retail_data_test [0] at offset 48
+2025-04-17 01:16:44,164 - INFO - User record b'101' successfully produced to retail_data_test [0] at offset 49
+2025-04-17 01:16:44,680 - INFO - User record b'102' successfully produced to retail_data_test [0] at offset 50
+2025-04-17 01:16:45,189 - INFO - User record b'103' successfully produced to retail_data_test [0] at offset 51
+2025-04-17 01:16:45,691 - INFO - User record b'104' successfully produced to retail_data_test [1] at offset 52
+2025-04-17 01:16:46,206 - INFO - User record b'105' successfully produced to retail_data_test [1] at offset 53
+2025-04-17 01:16:46,711 - INFO - User record b'106' successfully produced to retail_data_test [1] at offset 54
+2025-04-17 01:16:47,227 - INFO - User record b'107' successfully produced to retail_data_test [1] at offset 55
+2025-04-17 01:16:47,733 - INFO - User record b'108' successfully produced to retail_data_test [0] at offset 52
+2025-04-17 01:16:48,235 - INFO - User record b'109' successfully produced to retail_data_test [0] at offset 53
+2025-04-17 01:16:48,751 - INFO - User record b'110' successfully produced to retail_data_test [1] at offset 56
+2025-04-17 01:16:49,259 - INFO - User record b'111' successfully produced to retail_data_test [1] at offset 57
+2025-04-17 01:16:49,766 - INFO - User record b'112' successfully produced to retail_data_test [1] at offset 58
+2025-04-17 01:16:50,280 - INFO - User record b'113' successfully produced to retail_data_test [1] at offset 59
+2025-04-17 01:16:50,795 - INFO - User record b'114' successfully produced to retail_data_test [0] at offset 54
+2025-04-17 01:16:51,308 - INFO - User record b'115' successfully produced to retail_data_test [0] at offset 55
+2025-04-17 01:16:51,814 - INFO - User record b'116' successfully produced to retail_data_test [0] at offset 56
+2025-04-17 01:16:52,319 - INFO - User record b'117' successfully produced to retail_data_test [0] at offset 57
+2025-04-17 01:16:52,822 - INFO - User record b'118' successfully produced to retail_data_test [1] at offset 60
+2025-04-17 01:16:53,337 - INFO - User record b'119' successfully produced to retail_data_test [1] at offset 61
+2025-04-17 01:16:53,839 - INFO - User record b'120' successfully produced to retail_data_test [0] at offset 58
+2025-04-17 01:16:54,342 - INFO - User record b'121' successfully produced to retail_data_test [0] at offset 59
+2025-04-17 01:16:54,857 - INFO - User record b'122' successfully produced to retail_data_test [0] at offset 60
+2025-04-17 01:16:55,361 - INFO - User record b'123' successfully produced to retail_data_test [0] at offset 61
+2025-04-17 01:16:55,864 - INFO - User record b'124' successfully produced to retail_data_test [1] at offset 62
+2025-04-17 01:16:56,379 - INFO - User record b'125' successfully produced to retail_data_test [1] at offset 63
+2025-04-17 01:16:56,883 - INFO - User record b'126' successfully produced to retail_data_test [1] at offset 64
+2025-04-17 01:16:57,398 - INFO - User record b'127' successfully produced to retail_data_test [1] at offset 65
+2025-04-17 01:16:57,916 - INFO - User record b'128' successfully produced to retail_data_test [0] at offset 62
+2025-04-17 01:16:58,420 - INFO - User record b'129' successfully produced to retail_data_test [0] at offset 63
+2025-04-17 01:16:58,922 - INFO - User record b'130' successfully produced to retail_data_test [1] at offset 66
+2025-04-17 01:16:59,427 - INFO - User record b'131' successfully produced to retail_data_test [1] at offset 67
+2025-04-17 01:16:59,940 - INFO - User record b'132' successfully produced to retail_data_test [1] at offset 68
+2025-04-17 01:17:00,442 - INFO - User record b'133' successfully produced to retail_data_test [1] at offset 69
+2025-04-17 01:17:00,946 - INFO - User record b'134' successfully produced to retail_data_test [0] at offset 64
+2025-04-17 01:17:01,452 - INFO - User record b'135' successfully produced to retail_data_test [0] at offset 65
+2025-04-17 01:17:01,954 - INFO - User record b'136' successfully produced to retail_data_test [0] at offset 66
+2025-04-17 01:17:02,457 - INFO - User record b'137' successfully produced to retail_data_test [0] at offset 67
+2025-04-17 01:17:02,962 - INFO - User record b'138' successfully produced to retail_data_test [1] at offset 70
+2025-04-17 01:17:03,478 - INFO - User record b'139' successfully produced to retail_data_test [1] at offset 71
+2025-04-17 01:17:03,980 - INFO - User record b'140' successfully produced to retail_data_test [0] at offset 68
+2025-04-17 01:17:04,481 - INFO - User record b'141' successfully produced to retail_data_test [0] at offset 69
+2025-04-17 01:17:04,992 - INFO - User record b'142' successfully produced to retail_data_test [0] at offset 70
+2025-04-17 01:17:05,498 - INFO - User record b'143' successfully produced to retail_data_test [0] at offset 71
+2025-04-17 01:17:06,012 - INFO - User record b'144' successfully produced to retail_data_test [1] at offset 72
+2025-04-17 01:17:06,520 - INFO - User record b'145' successfully produced to retail_data_test [1] at offset 73
+2025-04-17 01:17:07,037 - INFO - User record b'146' successfully produced to retail_data_test [1] at offset 74
+2025-04-17 01:17:07,550 - INFO - User record b'147' successfully produced to retail_data_test [1] at offset 75
+2025-04-17 01:17:08,055 - INFO - User record b'148' successfully produced to retail_data_test [0] at offset 72
+2025-04-17 01:17:08,567 - INFO - User record b'149' successfully produced to retail_data_test [0] at offset 73
+2025-04-17 01:17:09,073 - INFO - User record b'150' successfully produced to retail_data_test [1] at offset 76
+2025-04-17 01:17:09,577 - INFO - User record b'151' successfully produced to retail_data_test [1] at offset 77
+2025-04-17 01:17:10,081 - INFO - User record b'152' successfully produced to retail_data_test [1] at offset 78
+2025-04-17 01:17:10,583 - INFO - User record b'153' successfully produced to retail_data_test [1] at offset 79
+2025-04-17 01:17:11,088 - INFO - User record b'154' successfully produced to retail_data_test [0] at offset 74
+2025-04-17 01:17:11,600 - INFO - User record b'155' successfully produced to retail_data_test [0] at offset 75
+2025-04-17 01:17:12,106 - INFO - User record b'156' successfully produced to retail_data_test [0] at offset 76
+2025-04-17 01:17:12,610 - INFO - User record b'157' successfully produced to retail_data_test [0] at offset 77
+2025-04-17 01:17:13,112 - INFO - User record b'158' successfully produced to retail_data_test [1] at offset 80
+2025-04-17 01:17:13,627 - INFO - User record b'159' successfully produced to retail_data_test [1] at offset 81
+2025-04-17 01:17:14,141 - INFO - User record b'160' successfully produced to retail_data_test [0] at offset 78
+2025-04-17 01:17:14,645 - INFO - User record b'161' successfully produced to retail_data_test [0] at offset 79
+2025-04-17 01:17:15,151 - INFO - User record b'162' successfully produced to retail_data_test [0] at offset 80
+2025-04-17 01:17:15,658 - INFO - User record b'163' successfully produced to retail_data_test [0] at offset 81
+2025-04-17 01:17:16,163 - INFO - User record b'164' successfully produced to retail_data_test [1] at offset 82
+2025-04-17 01:17:16,676 - INFO - User record b'165' successfully produced to retail_data_test [1] at offset 83
+2025-04-17 01:17:17,182 - INFO - User record b'166' successfully produced to retail_data_test [1] at offset 84
+2025-04-17 01:17:17,684 - INFO - User record b'167' successfully produced to retail_data_test [1] at offset 85
+2025-04-17 01:17:18,187 - INFO - User record b'168' successfully produced to retail_data_test [0] at offset 82
+2025-04-17 01:17:18,689 - INFO - User record b'169' successfully produced to retail_data_test [0] at offset 83
+2025-04-17 01:17:19,191 - INFO - User record b'170' successfully produced to retail_data_test [1] at offset 86
+2025-04-17 01:17:19,698 - INFO - User record b'171' successfully produced to retail_data_test [1] at offset 87
+2025-04-17 01:17:20,200 - INFO - User record b'172' successfully produced to retail_data_test [1] at offset 88
+2025-04-17 01:17:20,704 - INFO - User record b'173' successfully produced to retail_data_test [1] at offset 89
+2025-04-17 01:17:21,219 - INFO - User record b'174' successfully produced to retail_data_test [0] at offset 84
+2025-04-17 01:17:21,733 - INFO - User record b'175' successfully produced to retail_data_test [0] at offset 85
+2025-04-17 01:17:22,237 - INFO - User record b'176' successfully produced to retail_data_test [0] at offset 86
+2025-04-17 01:17:22,742 - INFO - User record b'177' successfully produced to retail_data_test [0] at offset 87
+2025-04-17 01:17:23,250 - INFO - User record b'178' successfully produced to retail_data_test [1] at offset 90
+2025-04-17 01:17:23,751 - INFO - User record b'179' successfully produced to retail_data_test [1] at offset 91
+2025-04-17 01:17:24,264 - INFO - User record b'180' successfully produced to retail_data_test [0] at offset 88
+2025-04-17 01:17:24,778 - INFO - User record b'181' successfully produced to retail_data_test [0] at offset 89
+2025-04-17 01:17:25,295 - INFO - User record b'182' successfully produced to retail_data_test [0] at offset 90
+2025-04-17 01:17:25,796 - INFO - User record b'183' successfully produced to retail_data_test [0] at offset 91
+2025-04-17 01:17:26,301 - INFO - User record b'184' successfully produced to retail_data_test [1] at offset 92
+2025-04-17 01:17:26,818 - INFO - User record b'185' successfully produced to retail_data_test [1] at offset 93
+2025-04-17 01:17:27,326 - INFO - User record b'186' successfully produced to retail_data_test [1] at offset 94
+2025-04-17 01:17:27,828 - INFO - User record b'187' successfully produced to retail_data_test [1] at offset 95
+2025-04-17 01:17:28,333 - INFO - User record b'188' successfully produced to retail_data_test [0] at offset 92
+2025-04-17 01:17:28,835 - INFO - User record b'189' successfully produced to retail_data_test [0] at offset 93
+2025-04-17 01:17:29,352 - INFO - User record b'190' successfully produced to retail_data_test [1] at offset 96
+2025-04-17 01:17:29,854 - INFO - User record b'191' successfully produced to retail_data_test [1] at offset 97
+2025-04-17 01:17:30,360 - INFO - User record b'192' successfully produced to retail_data_test [1] at offset 98
+2025-04-17 01:17:30,863 - INFO - User record b'193' successfully produced to retail_data_test [1] at offset 99
+2025-04-17 01:17:31,380 - INFO - User record b'194' successfully produced to retail_data_test [0] at offset 94
+2025-04-17 01:17:31,883 - INFO - User record b'195' successfully produced to retail_data_test [0] at offset 95
+2025-04-17 01:17:32,402 - INFO - User record b'196' successfully produced to retail_data_test [0] at offset 96
+2025-04-17 01:17:32,915 - INFO - User record b'197' successfully produced to retail_data_test [0] at offset 97
+2025-04-17 01:17:33,429 - INFO - User record b'198' successfully produced to retail_data_test [1] at offset 100
+2025-04-17 01:17:33,936 - INFO - User record b'199' successfully produced to retail_data_test [1] at offset 101
+2025-04-17 01:17:34,442 - INFO - User record b'200' successfully produced to retail_data_test [1] at offset 102
+2025-04-17 01:17:34,958 - INFO - User record b'201' successfully produced to retail_data_test [1] at offset 103
+2025-04-17 01:17:35,463 - INFO - User record b'202' successfully produced to retail_data_test [1] at offset 104
+2025-04-17 01:17:35,966 - INFO - User record b'203' successfully produced to retail_data_test [1] at offset 105
+2025-04-17 01:17:36,472 - INFO - User record b'204' successfully produced to retail_data_test [0] at offset 98
+2025-04-17 01:17:36,975 - INFO - User record b'205' successfully produced to retail_data_test [0] at offset 99
+2025-04-17 01:17:37,479 - INFO - User record b'206' successfully produced to retail_data_test [0] at offset 100
+2025-04-17 01:17:37,982 - INFO - User record b'207' successfully produced to retail_data_test [0] at offset 101
+2025-04-17 01:17:38,486 - INFO - User record b'208' successfully produced to retail_data_test [1] at offset 106
+2025-04-17 01:17:38,991 - INFO - User record b'209' successfully produced to retail_data_test [1] at offset 107
+2025-04-17 01:17:39,492 - INFO - User record b'210' successfully produced to retail_data_test [0] at offset 102
+2025-04-17 01:17:39,998 - INFO - User record b'211' successfully produced to retail_data_test [0] at offset 103
+2025-04-17 01:17:40,502 - INFO - User record b'212' successfully produced to retail_data_test [0] at offset 104
+2025-04-17 01:17:41,009 - INFO - User record b'213' successfully produced to retail_data_test [0] at offset 105
+2025-04-17 01:17:41,512 - INFO - User record b'214' successfully produced to retail_data_test [1] at offset 108
+2025-04-17 01:17:42,015 - INFO - User record b'215' successfully produced to retail_data_test [1] at offset 109
+2025-04-17 01:17:42,572 - INFO - User record b'216' successfully produced to retail_data_test [1] at offset 110
+2025-04-17 01:17:43,084 - INFO - User record b'217' successfully produced to retail_data_test [1] at offset 111
+2025-04-17 01:17:43,601 - INFO - User record b'218' successfully produced to retail_data_test [0] at offset 106
+2025-04-17 01:17:44,114 - INFO - User record b'219' successfully produced to retail_data_test [0] at offset 107
+2025-04-17 01:17:44,618 - INFO - User record b'220' successfully produced to retail_data_test [1] at offset 112
+2025-04-17 01:17:45,122 - INFO - User record b'221' successfully produced to retail_data_test [1] at offset 113
+2025-04-17 01:17:45,625 - INFO - User record b'222' successfully produced to retail_data_test [1] at offset 114
+2025-04-17 01:17:46,140 - INFO - User record b'223' successfully produced to retail_data_test [1] at offset 115
+2025-04-17 01:17:46,641 - INFO - User record b'224' successfully produced to retail_data_test [0] at offset 108
+2025-04-17 01:17:47,144 - INFO - User record b'225' successfully produced to retail_data_test [0] at offset 109
+2025-04-17 01:17:47,659 - INFO - User record b'226' successfully produced to retail_data_test [0] at offset 110
+2025-04-17 01:17:48,170 - INFO - User record b'227' successfully produced to retail_data_test [0] at offset 111
+2025-04-17 01:17:48,685 - INFO - User record b'228' successfully produced to retail_data_test [1] at offset 116
+2025-04-17 01:17:49,189 - INFO - User record b'229' successfully produced to retail_data_test [1] at offset 117
+2025-04-17 01:17:49,704 - INFO - User record b'230' successfully produced to retail_data_test [0] at offset 112
+2025-04-17 01:17:50,212 - INFO - User record b'231' successfully produced to retail_data_test [0] at offset 113
+2025-04-17 01:17:50,728 - INFO - User record b'232' successfully produced to retail_data_test [0] at offset 114
+2025-04-17 01:17:51,233 - INFO - User record b'233' successfully produced to retail_data_test [0] at offset 115
+2025-04-17 01:17:51,736 - INFO - User record b'234' successfully produced to retail_data_test [1] at offset 118
+2025-04-17 01:17:52,239 - INFO - User record b'235' successfully produced to retail_data_test [1] at offset 119
+2025-04-17 01:17:52,743 - INFO - User record b'236' successfully produced to retail_data_test [1] at offset 120
+2025-04-17 01:17:53,259 - INFO - User record b'237' successfully produced to retail_data_test [1] at offset 121
+2025-04-17 01:17:53,760 - INFO - User record b'238' successfully produced to retail_data_test [0] at offset 116
+2025-04-17 01:17:54,265 - INFO - User record b'239' successfully produced to retail_data_test [0] at offset 117
+2025-04-17 01:17:55,777 - INFO - User record b'240' successfully produced to retail_data_test [1] at offset 122
+2025-04-17 01:17:55,778 - INFO - User record b'241' successfully produced to retail_data_test [1] at offset 123
+2025-04-17 01:17:55,778 - INFO - User record b'242' successfully produced to retail_data_test [1] at offset 124
+2025-04-17 01:17:56,291 - INFO - User record b'243' successfully produced to retail_data_test [1] at offset 125
+2025-04-17 01:17:56,792 - INFO - User record b'244' successfully produced to retail_data_test [0] at offset 118
+2025-04-17 01:17:57,300 - INFO - User record b'245' successfully produced to retail_data_test [0] at offset 119
+2025-04-17 01:17:57,810 - INFO - User record b'246' successfully produced to retail_data_test [0] at offset 120
+2025-04-17 01:17:58,326 - INFO - User record b'247' successfully produced to retail_data_test [0] at offset 121
+2025-04-17 01:17:58,827 - INFO - User record b'248' successfully produced to retail_data_test [1] at offset 126
+2025-04-17 01:17:59,344 - INFO - User record b'249' successfully produced to retail_data_test [1] at offset 127
+2025-04-17 01:17:59,849 - INFO - User record b'250' successfully produced to retail_data_test [0] at offset 122
+2025-04-17 01:18:00,365 - INFO - User record b'251' successfully produced to retail_data_test [0] at offset 123
+2025-04-17 01:18:00,871 - INFO - User record b'252' successfully produced to retail_data_test [0] at offset 124
+2025-04-17 01:18:01,382 - INFO - User record b'253' successfully produced to retail_data_test [0] at offset 125
+2025-04-17 01:18:01,892 - INFO - User record b'254' successfully produced to retail_data_test [1] at offset 128
+2025-04-17 01:18:02,412 - INFO - User record b'255' successfully produced to retail_data_test [1] at offset 129
+2025-04-17 01:18:02,914 - INFO - User record b'256' successfully produced to retail_data_test [1] at offset 130
+2025-04-17 01:18:03,422 - INFO - User record b'257' successfully produced to retail_data_test [1] at offset 131
+2025-04-17 01:18:03,929 - INFO - User record b'258' successfully produced to retail_data_test [0] at offset 126
+2025-04-17 01:18:04,437 - INFO - User record b'259' successfully produced to retail_data_test [0] at offset 127
+2025-04-17 01:18:04,939 - INFO - User record b'260' successfully produced to retail_data_test [1] at offset 132
+2025-04-17 01:18:05,445 - INFO - User record b'261' successfully produced to retail_data_test [1] at offset 133
+2025-04-17 01:18:05,960 - INFO - User record b'262' successfully produced to retail_data_test [1] at offset 134
+2025-04-17 01:18:06,467 - INFO - User record b'263' successfully produced to retail_data_test [1] at offset 135
+2025-04-17 01:18:06,971 - INFO - User record b'264' successfully produced to retail_data_test [0] at offset 128
+2025-04-17 01:18:07,476 - INFO - User record b'265' successfully produced to retail_data_test [0] at offset 129
+2025-04-17 01:18:07,983 - INFO - User record b'266' successfully produced to retail_data_test [0] at offset 130
+2025-04-17 01:18:08,492 - INFO - User record b'267' successfully produced to retail_data_test [0] at offset 131
+2025-04-17 01:18:08,995 - INFO - User record b'268' successfully produced to retail_data_test [1] at offset 136
+2025-04-17 01:18:09,502 - INFO - User record b'269' successfully produced to retail_data_test [1] at offset 137
+2025-04-17 01:18:10,007 - INFO - User record b'270' successfully produced to retail_data_test [0] at offset 132
+2025-04-17 01:18:10,509 - INFO - User record b'271' successfully produced to retail_data_test [0] at offset 133
+2025-04-17 01:18:11,013 - INFO - User record b'272' successfully produced to retail_data_test [0] at offset 134
+2025-04-17 01:18:11,526 - INFO - User record b'273' successfully produced to retail_data_test [0] at offset 135
+2025-04-17 01:18:12,028 - INFO - User record b'274' successfully produced to retail_data_test [1] at offset 138
+2025-04-17 01:18:12,529 - INFO - User record b'275' successfully produced to retail_data_test [1] at offset 139
+2025-04-17 01:18:13,043 - INFO - User record b'276' successfully produced to retail_data_test [1] at offset 140
+2025-04-17 01:18:14,070 - INFO - User record b'277' successfully produced to retail_data_test [1] at offset 141
+2025-04-17 01:18:14,070 - INFO - User record b'278' successfully produced to retail_data_test [0] at offset 136
+2025-04-17 01:18:14,585 - INFO - User record b'279' successfully produced to retail_data_test [0] at offset 137
+2025-04-17 01:18:15,096 - INFO - User record b'280' successfully produced to retail_data_test [1] at offset 142
+2025-04-17 01:18:15,599 - INFO - User record b'281' successfully produced to retail_data_test [1] at offset 143
+2025-04-17 01:18:16,102 - INFO - User record b'282' successfully produced to retail_data_test [1] at offset 144
+2025-04-17 01:18:16,612 - INFO - User record b'283' successfully produced to retail_data_test [1] at offset 145
+2025-04-17 01:18:17,118 - INFO - User record b'284' successfully produced to retail_data_test [0] at offset 138
+2025-04-17 01:18:17,625 - INFO - User record b'285' successfully produced to retail_data_test [0] at offset 139
+2025-04-17 01:18:18,130 - INFO - User record b'286' successfully produced to retail_data_test [0] at offset 140
+2025-04-17 01:18:18,645 - INFO - User record b'287' successfully produced to retail_data_test [0] at offset 141
+2025-04-17 01:18:19,152 - INFO - User record b'288' successfully produced to retail_data_test [1] at offset 146
+2025-04-17 01:18:19,669 - INFO - User record b'289' successfully produced to retail_data_test [1] at offset 147
+2025-04-17 01:18:20,698 - INFO - User record b'290' successfully produced to retail_data_test [0] at offset 142
+2025-04-17 01:18:20,698 - INFO - User record b'291' successfully produced to retail_data_test [0] at offset 143
+2025-04-17 01:18:21,214 - INFO - User record b'292' successfully produced to retail_data_test [0] at offset 144
+2025-04-17 01:18:22,232 - INFO - User record b'294' successfully produced to retail_data_test [1] at offset 148
+2025-04-17 01:18:22,232 - INFO - User record b'293' successfully produced to retail_data_test [0] at offset 145
+2025-04-17 01:18:22,748 - INFO - User record b'295' successfully produced to retail_data_test [1] at offset 149
+2025-04-17 01:18:23,261 - INFO - User record b'296' successfully produced to retail_data_test [1] at offset 150
+2025-04-17 01:18:23,777 - INFO - User record b'297' successfully produced to retail_data_test [1] at offset 151
+2025-04-17 01:18:24,807 - INFO - User record b'298' successfully produced to retail_data_test [0] at offset 146
+2025-04-17 01:18:24,808 - INFO - User record b'299' successfully produced to retail_data_test [0] at offset 147
+2025-04-17 01:18:25,321 - INFO - User record b'300' successfully produced to retail_data_test [0] at offset 148
+2025-04-17 01:18:25,823 - INFO - User record b'301' successfully produced to retail_data_test [0] at offset 149
+2025-04-17 01:18:26,335 - INFO - User record b'302' successfully produced to retail_data_test [0] at offset 150
+2025-04-17 01:18:26,836 - INFO - User record b'303' successfully produced to retail_data_test [0] at offset 151
+2025-04-17 01:18:27,353 - INFO - User record b'304' successfully produced to retail_data_test [1] at offset 152
+2025-04-17 01:18:27,856 - INFO - User record b'305' successfully produced to retail_data_test [1] at offset 153
+2025-04-17 01:18:28,358 - INFO - User record b'306' successfully produced to retail_data_test [1] at offset 154
+2025-04-17 01:18:29,376 - INFO - User record b'308' successfully produced to retail_data_test [0] at offset 152
+2025-04-17 01:18:29,376 - INFO - User record b'307' successfully produced to retail_data_test [1] at offset 155
+2025-04-17 01:18:29,879 - INFO - User record b'309' successfully produced to retail_data_test [0] at offset 153
+2025-04-17 01:18:30,381 - INFO - User record b'310' successfully produced to retail_data_test [1] at offset 156
+2025-04-17 01:18:32,423 - INFO - User record b'311' successfully produced to retail_data_test [1] at offset 157
+2025-04-17 01:18:32,423 - INFO - User record b'312' successfully produced to retail_data_test [1] at offset 158
+2025-04-17 01:18:32,424 - INFO - User record b'313' successfully produced to retail_data_test [1] at offset 159
+2025-04-17 01:18:32,424 - INFO - User record b'314' successfully produced to retail_data_test [0] at offset 154
+2025-04-17 01:18:32,928 - INFO - User record b'315' successfully produced to retail_data_test [0] at offset 155
+2025-04-17 01:18:33,442 - INFO - User record b'316' successfully produced to retail_data_test [0] at offset 156
+2025-04-17 01:18:33,958 - INFO - User record b'317' successfully produced to retail_data_test [0] at offset 157
+2025-04-17 01:18:34,462 - INFO - User record b'318' successfully produced to retail_data_test [1] at offset 160
+2025-04-17 01:18:34,967 - INFO - User record b'319' successfully produced to retail_data_test [1] at offset 161
+2025-04-17 01:18:35,469 - INFO - User record b'320' successfully produced to retail_data_test [0] at offset 158
+2025-04-17 01:18:35,974 - INFO - User record b'321' successfully produced to retail_data_test [0] at offset 159
+2025-04-17 01:18:36,485 - INFO - User record b'322' successfully produced to retail_data_test [0] at offset 160
+2025-04-17 01:18:36,996 - INFO - User record b'323' successfully produced to retail_data_test [0] at offset 161
+2025-04-17 01:18:37,510 - INFO - User record b'324' successfully produced to retail_data_test [1] at offset 162
+2025-04-17 01:18:38,014 - INFO - User record b'325' successfully produced to retail_data_test [1] at offset 163
+2025-04-17 01:18:38,518 - INFO - User record b'326' successfully produced to retail_data_test [1] at offset 164
+2025-04-17 01:18:39,022 - INFO - User record b'327' successfully produced to retail_data_test [1] at offset 165
+2025-04-17 01:18:39,526 - INFO - User record b'328' successfully produced to retail_data_test [0] at offset 162
+2025-04-17 01:18:40,031 - INFO - User record b'329' successfully produced to retail_data_test [0] at offset 163
+2025-04-17 01:18:40,535 - INFO - User record b'330' successfully produced to retail_data_test [1] at offset 166
+2025-04-17 01:18:41,038 - INFO - User record b'331' successfully produced to retail_data_test [1] at offset 167
+2025-04-17 01:18:41,545 - INFO - User record b'332' successfully produced to retail_data_test [1] at offset 168
+2025-04-17 01:18:42,061 - INFO - User record b'333' successfully produced to retail_data_test [1] at offset 169
+2025-04-17 01:18:42,577 - INFO - User record b'334' successfully produced to retail_data_test [0] at offset 164
+2025-04-17 01:18:43,090 - INFO - User record b'335' successfully produced to retail_data_test [0] at offset 165
+2025-04-17 01:18:43,603 - INFO - User record b'336' successfully produced to retail_data_test [0] at offset 166
+2025-04-17 01:18:44,113 - INFO - User record b'337' successfully produced to retail_data_test [0] at offset 167
+2025-04-17 01:18:44,616 - INFO - User record b'338' successfully produced to retail_data_test [1] at offset 170
+2025-04-17 01:18:45,125 - INFO - User record b'339' successfully produced to retail_data_test [1] at offset 171
+2025-04-17 01:18:45,637 - INFO - User record b'340' successfully produced to retail_data_test [0] at offset 168
+2025-04-17 01:18:46,149 - INFO - User record b'341' successfully produced to retail_data_test [0] at offset 169
+2025-04-17 01:18:46,664 - INFO - User record b'342' successfully produced to retail_data_test [0] at offset 170
+2025-04-17 01:18:47,167 - INFO - User record b'343' successfully produced to retail_data_test [0] at offset 171
+2025-04-17 01:18:47,680 - INFO - User record b'344' successfully produced to retail_data_test [1] at offset 172
+2025-04-17 01:18:48,192 - INFO - User record b'345' successfully produced to retail_data_test [1] at offset 173
+2025-04-17 01:18:48,708 - INFO - User record b'346' successfully produced to retail_data_test [1] at offset 174
+2025-04-17 01:18:49,209 - INFO - User record b'347' successfully produced to retail_data_test [1] at offset 175
+2025-04-17 01:18:49,711 - INFO - User record b'348' successfully produced to retail_data_test [0] at offset 172
+2025-04-17 01:18:50,224 - INFO - User record b'349' successfully produced to retail_data_test [0] at offset 173
+2025-04-17 01:18:50,740 - INFO - User record b'350' successfully produced to retail_data_test [1] at offset 176
+2025-04-17 01:18:51,244 - INFO - User record b'351' successfully produced to retail_data_test [1] at offset 177
+2025-04-17 01:18:51,748 - INFO - User record b'352' successfully produced to retail_data_test [1] at offset 178
+2025-04-17 01:18:52,263 - INFO - User record b'353' successfully produced to retail_data_test [1] at offset 179
+2025-04-17 01:18:52,765 - INFO - User record b'354' successfully produced to retail_data_test [0] at offset 174
+2025-04-17 01:18:53,270 - INFO - User record b'355' successfully produced to retail_data_test [0] at offset 175
+2025-04-17 01:18:53,774 - INFO - User record b'356' successfully produced to retail_data_test [0] at offset 176
+2025-04-17 01:18:54,277 - INFO - User record b'357' successfully produced to retail_data_test [0] at offset 177
+2025-04-17 01:18:54,781 - INFO - User record b'358' successfully produced to retail_data_test [1] at offset 180
+2025-04-17 01:18:55,284 - INFO - User record b'359' successfully produced to retail_data_test [1] at offset 181
+2025-04-17 01:18:55,800 - INFO - User record b'360' successfully produced to retail_data_test [0] at offset 178
+2025-04-17 01:18:56,303 - INFO - User record b'361' successfully produced to retail_data_test [0] at offset 179
+2025-04-17 01:18:56,806 - INFO - User record b'362' successfully produced to retail_data_test [0] at offset 180
+2025-04-17 01:18:57,312 - INFO - User record b'363' successfully produced to retail_data_test [0] at offset 181
+2025-04-17 01:18:57,819 - INFO - User record b'364' successfully produced to retail_data_test [1] at offset 182
+2025-04-17 01:18:58,328 - INFO - User record b'365' successfully produced to retail_data_test [1] at offset 183
+2025-04-17 01:18:58,843 - INFO - User record b'366' successfully produced to retail_data_test [1] at offset 184
+2025-04-17 01:18:59,350 - INFO - User record b'367' successfully produced to retail_data_test [1] at offset 185
+2025-04-17 01:18:59,858 - INFO - User record b'368' successfully produced to retail_data_test [0] at offset 182
+2025-04-17 01:19:00,360 - INFO - User record b'369' successfully produced to retail_data_test [0] at offset 183
+2025-04-17 01:19:00,878 - INFO - User record b'370' successfully produced to retail_data_test [1] at offset 186
+2025-04-17 01:19:01,381 - INFO - User record b'371' successfully produced to retail_data_test [1] at offset 187
+2025-04-17 01:19:01,882 - INFO - User record b'372' successfully produced to retail_data_test [1] at offset 188
+2025-04-17 01:19:02,388 - INFO - User record b'373' successfully produced to retail_data_test [1] at offset 189
+2025-04-17 01:19:02,909 - INFO - User record b'374' successfully produced to retail_data_test [0] at offset 184
+2025-04-17 01:19:03,423 - INFO - User record b'375' successfully produced to retail_data_test [0] at offset 185
+2025-04-17 01:19:03,938 - INFO - User record b'376' successfully produced to retail_data_test [0] at offset 186
+2025-04-17 01:19:04,442 - INFO - User record b'377' successfully produced to retail_data_test [0] at offset 187
+2025-04-17 01:19:04,950 - INFO - User record b'378' successfully produced to retail_data_test [1] at offset 190
+2025-04-17 01:19:05,452 - INFO - User record b'379' successfully produced to retail_data_test [1] at offset 191
+2025-04-17 01:19:05,960 - INFO - User record b'380' successfully produced to retail_data_test [0] at offset 188
+2025-04-17 01:19:06,474 - INFO - User record b'381' successfully produced to retail_data_test [0] at offset 189
+2025-04-17 01:19:06,988 - INFO - User record b'382' successfully produced to retail_data_test [0] at offset 190
+2025-04-17 01:19:07,504 - INFO - User record b'383' successfully produced to retail_data_test [0] at offset 191
+2025-04-17 01:19:08,006 - INFO - User record b'384' successfully produced to retail_data_test [1] at offset 192
+2025-04-17 01:19:08,508 - INFO - User record b'385' successfully produced to retail_data_test [1] at offset 193
+2025-04-17 01:19:09,022 - INFO - User record b'386' successfully produced to retail_data_test [1] at offset 194
+2025-04-17 01:19:10,031 - INFO - User record b'388' successfully produced to retail_data_test [0] at offset 192
+2025-04-17 01:19:10,031 - INFO - User record b'387' successfully produced to retail_data_test [1] at offset 195
+2025-04-17 01:19:10,536 - INFO - User record b'389' successfully produced to retail_data_test [0] at offset 193
+2025-04-17 01:19:11,049 - INFO - User record b'390' successfully produced to retail_data_test [1] at offset 196
+2025-04-17 01:19:11,553 - INFO - User record b'391' successfully produced to retail_data_test [1] at offset 197
+2025-04-17 01:19:12,060 - INFO - User record b'392' successfully produced to retail_data_test [1] at offset 198
+2025-04-17 01:19:12,573 - INFO - User record b'393' successfully produced to retail_data_test [1] at offset 199
+2025-04-17 01:19:13,078 - INFO - User record b'394' successfully produced to retail_data_test [0] at offset 194
+2025-04-17 01:19:13,594 - INFO - User record b'395' successfully produced to retail_data_test [0] at offset 195
+2025-04-17 01:19:14,104 - INFO - User record b'396' successfully produced to retail_data_test [0] at offset 196
+2025-04-17 01:19:14,620 - INFO - User record b'397' successfully produced to retail_data_test [0] at offset 197
+2025-04-17 01:19:15,134 - INFO - User record b'398' successfully produced to retail_data_test [1] at offset 200
+2025-04-17 01:19:15,649 - INFO - User record b'399' successfully produced to retail_data_test [1] at offset 201
+2025-04-17 01:19:16,163 - INFO - User record b'400' successfully produced to retail_data_test [1] at offset 202
+2025-04-17 01:19:16,681 - INFO - User record b'401' successfully produced to retail_data_test [1] at offset 203
+2025-04-17 01:19:17,191 - INFO - User record b'402' successfully produced to retail_data_test [1] at offset 204
+2025-04-17 01:19:17,701 - INFO - User record b'403' successfully produced to retail_data_test [1] at offset 205
+2025-04-17 01:19:18,215 - INFO - User record b'404' successfully produced to retail_data_test [0] at offset 198
+2025-04-17 01:19:18,731 - INFO - User record b'405' successfully produced to retail_data_test [0] at offset 199
+2025-04-17 01:19:19,247 - INFO - User record b'406' successfully produced to retail_data_test [0] at offset 200
+2025-04-17 01:19:19,761 - INFO - User record b'407' successfully produced to retail_data_test [0] at offset 201
+2025-04-17 01:19:20,278 - INFO - User record b'408' successfully produced to retail_data_test [1] at offset 206
+2025-04-17 01:19:20,780 - INFO - User record b'409' successfully produced to retail_data_test [1] at offset 207
+2025-04-17 01:19:21,297 - INFO - User record b'410' successfully produced to retail_data_test [0] at offset 202
+2025-04-17 01:19:21,813 - INFO - User record b'411' successfully produced to retail_data_test [0] at offset 203
+2025-04-17 01:19:22,329 - INFO - User record b'412' successfully produced to retail_data_test [0] at offset 204
+2025-04-17 01:19:22,840 - INFO - User record b'413' successfully produced to retail_data_test [0] at offset 205
+2025-04-17 01:19:23,353 - INFO - User record b'414' successfully produced to retail_data_test [1] at offset 208
+2025-04-17 01:19:23,866 - INFO - User record b'415' successfully produced to retail_data_test [1] at offset 209
+2025-04-17 01:19:24,383 - INFO - User record b'416' successfully produced to retail_data_test [1] at offset 210
+2025-04-17 01:19:24,896 - INFO - User record b'417' successfully produced to retail_data_test [1] at offset 211
+2025-04-17 01:19:25,411 - INFO - User record b'418' successfully produced to retail_data_test [0] at offset 206
+2025-04-17 01:19:25,924 - INFO - User record b'419' successfully produced to retail_data_test [0] at offset 207
+2025-04-17 01:19:26,929 - INFO - User record b'420' successfully produced to retail_data_test [1] at offset 212
+2025-04-17 01:19:27,439 - INFO - User record b'421' successfully produced to retail_data_test [1] at offset 213
+2025-04-17 01:19:27,440 - INFO - User record b'422' successfully produced to retail_data_test [1] at offset 214
+2025-04-17 01:19:27,943 - INFO - User record b'423' successfully produced to retail_data_test [1] at offset 215
+2025-04-17 01:19:28,456 - INFO - User record b'424' successfully produced to retail_data_test [0] at offset 208
+2025-04-17 01:19:28,970 - INFO - User record b'425' successfully produced to retail_data_test [0] at offset 209
+2025-04-17 01:19:29,487 - INFO - User record b'426' successfully produced to retail_data_test [0] at offset 210
+2025-04-17 01:19:30,002 - INFO - User record b'427' successfully produced to retail_data_test [0] at offset 211
+2025-04-17 01:19:30,517 - INFO - User record b'428' successfully produced to retail_data_test [1] at offset 216
+2025-04-17 01:19:31,022 - INFO - User record b'429' successfully produced to retail_data_test [1] at offset 217
+2025-04-17 01:19:31,535 - INFO - User record b'430' successfully produced to retail_data_test [0] at offset 212
+2025-04-17 01:19:32,037 - INFO - User record b'431' successfully produced to retail_data_test [0] at offset 213
+2025-04-17 01:19:32,551 - INFO - User record b'432' successfully produced to retail_data_test [0] at offset 214
+2025-04-17 01:19:33,067 - INFO - User record b'433' successfully produced to retail_data_test [0] at offset 215
+2025-04-17 01:19:33,573 - INFO - User record b'434' successfully produced to retail_data_test [1] at offset 218
+2025-04-17 01:19:34,078 - INFO - User record b'435' successfully produced to retail_data_test [1] at offset 219
+2025-04-17 01:19:34,581 - INFO - User record b'436' successfully produced to retail_data_test [1] at offset 220
+2025-04-17 01:19:35,088 - INFO - User record b'437' successfully produced to retail_data_test [1] at offset 221
+2025-04-17 01:19:35,590 - INFO - User record b'438' successfully produced to retail_data_test [0] at offset 216
+2025-04-17 01:19:36,092 - INFO - User record b'439' successfully produced to retail_data_test [0] at offset 217
+2025-04-17 01:19:36,608 - INFO - User record b'440' successfully produced to retail_data_test [1] at offset 222
+2025-04-17 01:19:37,111 - INFO - User record b'441' successfully produced to retail_data_test [1] at offset 223
+2025-04-17 01:19:37,612 - INFO - User record b'442' successfully produced to retail_data_test [1] at offset 224
+2025-04-17 01:19:38,113 - INFO - User record b'443' successfully produced to retail_data_test [1] at offset 225
+2025-04-17 01:19:38,615 - INFO - User record b'444' successfully produced to retail_data_test [0] at offset 218
+2025-04-17 01:19:39,118 - INFO - User record b'445' successfully produced to retail_data_test [0] at offset 219
+2025-04-17 01:19:39,621 - INFO - User record b'446' successfully produced to retail_data_test [0] at offset 220
+2025-04-17 01:19:40,128 - INFO - User record b'447' successfully produced to retail_data_test [0] at offset 221
+2025-04-17 01:19:40,631 - INFO - User record b'448' successfully produced to retail_data_test [1] at offset 226
+2025-04-17 01:19:41,144 - INFO - User record b'449' successfully produced to retail_data_test [1] at offset 227
+2025-04-17 01:19:41,647 - INFO - User record b'450' successfully produced to retail_data_test [0] at offset 222
+2025-04-17 01:19:42,163 - INFO - User record b'451' successfully produced to retail_data_test [0] at offset 223
+2025-04-17 01:19:42,678 - INFO - User record b'452' successfully produced to retail_data_test [0] at offset 224
+2025-04-17 01:19:43,194 - INFO - User record b'453' successfully produced to retail_data_test [0] at offset 225
+2025-04-17 01:19:43,699 - INFO - User record b'454' successfully produced to retail_data_test [1] at offset 228
+2025-04-17 01:19:44,201 - INFO - User record b'455' successfully produced to retail_data_test [1] at offset 229
+2025-04-17 01:19:44,707 - INFO - User record b'456' successfully produced to retail_data_test [1] at offset 230
+2025-04-17 01:19:45,210 - INFO - User record b'457' successfully produced to retail_data_test [1] at offset 231
+2025-04-17 01:19:45,712 - INFO - User record b'458' successfully produced to retail_data_test [0] at offset 226
+2025-04-17 01:19:46,227 - INFO - User record b'459' successfully produced to retail_data_test [0] at offset 227
+2025-04-17 01:19:46,743 - INFO - User record b'460' successfully produced to retail_data_test [1] at offset 232
+2025-04-17 01:19:47,257 - INFO - User record b'461' successfully produced to retail_data_test [1] at offset 233
+2025-04-17 01:19:47,767 - INFO - User record b'462' successfully produced to retail_data_test [1] at offset 234
+2025-04-17 01:19:48,276 - INFO - User record b'463' successfully produced to retail_data_test [1] at offset 235
+2025-04-17 01:19:48,778 - INFO - User record b'464' successfully produced to retail_data_test [0] at offset 228
+2025-04-17 01:19:49,291 - INFO - User record b'465' successfully produced to retail_data_test [0] at offset 229
+2025-04-17 01:19:49,808 - INFO - User record b'466' successfully produced to retail_data_test [0] at offset 230
+2025-04-17 01:19:50,321 - INFO - User record b'467' successfully produced to retail_data_test [0] at offset 231
+2025-04-17 01:19:50,827 - INFO - User record b'468' successfully produced to retail_data_test [1] at offset 236
+2025-04-17 01:19:51,331 - INFO - User record b'469' successfully produced to retail_data_test [1] at offset 237
+2025-04-17 01:19:51,845 - INFO - User record b'470' successfully produced to retail_data_test [0] at offset 232
+2025-04-17 01:19:52,359 - INFO - User record b'471' successfully produced to retail_data_test [0] at offset 233
+2025-04-17 01:19:52,874 - INFO - User record b'472' successfully produced to retail_data_test [0] at offset 234
+2025-04-17 01:19:53,377 - INFO - User record b'473' successfully produced to retail_data_test [0] at offset 235
+2025-04-17 01:19:53,880 - INFO - User record b'474' successfully produced to retail_data_test [1] at offset 238
+2025-04-17 01:19:54,395 - INFO - User record b'475' successfully produced to retail_data_test [1] at offset 239
+2025-04-17 01:19:54,903 - INFO - User record b'476' successfully produced to retail_data_test [1] at offset 240
+2025-04-17 01:19:55,404 - INFO - User record b'477' successfully produced to retail_data_test [1] at offset 241
+2025-04-17 01:19:55,919 - INFO - User record b'478' successfully produced to retail_data_test [0] at offset 236
+2025-04-17 01:19:56,421 - INFO - User record b'479' successfully produced to retail_data_test [0] at offset 237
+2025-04-17 01:19:56,923 - INFO - User record b'480' successfully produced to retail_data_test [1] at offset 242
+2025-04-17 01:19:57,428 - INFO - User record b'481' successfully produced to retail_data_test [1] at offset 243
+2025-04-17 01:19:57,931 - INFO - User record b'482' successfully produced to retail_data_test [1] at offset 244
+2025-04-17 01:19:58,435 - INFO - User record b'483' successfully produced to retail_data_test [1] at offset 245
+2025-04-17 01:19:58,937 - INFO - User record b'484' successfully produced to retail_data_test [0] at offset 238
+2025-04-17 01:19:59,441 - INFO - User record b'485' successfully produced to retail_data_test [0] at offset 239
+2025-04-17 01:19:59,946 - INFO - User record b'486' successfully produced to retail_data_test [0] at offset 240
+2025-04-17 01:20:00,453 - INFO - User record b'487' successfully produced to retail_data_test [0] at offset 241
+2025-04-17 01:20:00,955 - INFO - User record b'488' successfully produced to retail_data_test [1] at offset 246
+2025-04-17 01:20:01,457 - INFO - User record b'489' successfully produced to retail_data_test [1] at offset 247
+2025-04-17 01:20:01,957 - INFO - User record b'490' successfully produced to retail_data_test [0] at offset 242
+2025-04-17 01:20:02,472 - INFO - User record b'491' successfully produced to retail_data_test [0] at offset 243
+2025-04-17 01:20:02,978 - INFO - User record b'492' successfully produced to retail_data_test [0] at offset 244
+2025-04-17 01:20:03,480 - INFO - User record b'493' successfully produced to retail_data_test [0] at offset 245
+2025-04-17 01:20:03,983 - INFO - User record b'494' successfully produced to retail_data_test [1] at offset 248
+2025-04-17 01:20:04,492 - INFO - User record b'495' successfully produced to retail_data_test [1] at offset 249
+2025-04-17 01:20:04,995 - INFO - User record b'496' successfully produced to retail_data_test [1] at offset 250
+2025-04-17 01:20:05,498 - INFO - User record b'497' successfully produced to retail_data_test [1] at offset 251
+2025-04-17 01:20:06,001 - INFO - User record b'498' successfully produced to retail_data_test [0] at offset 246
+2025-04-17 01:20:06,504 - INFO - User record b'499' successfully produced to retail_data_test [0] at offset 247
+2025-04-17 01:20:07,009 - INFO - User record b'500' successfully produced to retail_data_test [0] at offset 248
+2025-04-17 01:20:07,525 - INFO - User record b'501' successfully produced to retail_data_test [0] at offset 249
+2025-04-17 01:20:08,027 - INFO - User record b'502' successfully produced to retail_data_test [0] at offset 250
+2025-04-17 01:20:08,543 - INFO - User record b'503' successfully produced to retail_data_test [0] at offset 251
+2025-04-17 01:20:09,054 - INFO - User record b'504' successfully produced to retail_data_test [1] at offset 252
+2025-04-17 01:20:09,561 - INFO - User record b'505' successfully produced to retail_data_test [1] at offset 253
+2025-04-17 01:20:10,078 - INFO - User record b'506' successfully produced to retail_data_test [1] at offset 254
+2025-04-17 01:20:10,580 - INFO - User record b'507' successfully produced to retail_data_test [1] at offset 255
+2025-04-17 01:20:11,084 - INFO - User record b'508' successfully produced to retail_data_test [0] at offset 252
+2025-04-17 01:20:11,601 - INFO - User record b'509' successfully produced to retail_data_test [0] at offset 253
+2025-04-17 01:20:12,105 - INFO - User record b'510' successfully produced to retail_data_test [1] at offset 256
+2025-04-17 01:20:12,609 - INFO - User record b'511' successfully produced to retail_data_test [1] at offset 257
+2025-04-17 01:20:13,112 - INFO - User record b'512' successfully produced to retail_data_test [1] at offset 258
+2025-04-17 01:20:13,616 - INFO - User record b'513' successfully produced to retail_data_test [1] at offset 259
+2025-04-17 01:20:14,130 - INFO - User record b'514' successfully produced to retail_data_test [0] at offset 254
+2025-04-17 01:20:14,634 - INFO - User record b'515' successfully produced to retail_data_test [0] at offset 255
+2025-04-17 01:20:15,142 - INFO - User record b'516' successfully produced to retail_data_test [0] at offset 256
+2025-04-17 01:20:15,645 - INFO - User record b'517' successfully produced to retail_data_test [0] at offset 257
+2025-04-17 01:20:16,153 - INFO - User record b'518' successfully produced to retail_data_test [1] at offset 260
+2025-04-17 01:20:16,659 - INFO - User record b'519' successfully produced to retail_data_test [1] at offset 261
+2025-04-17 01:20:17,162 - INFO - User record b'520' successfully produced to retail_data_test [0] at offset 258
+2025-04-17 01:20:17,664 - INFO - User record b'521' successfully produced to retail_data_test [0] at offset 259
+2025-04-17 01:20:18,171 - INFO - User record b'522' successfully produced to retail_data_test [0] at offset 260
+2025-04-17 01:20:18,675 - INFO - User record b'523' successfully produced to retail_data_test [0] at offset 261
+2025-04-17 01:20:19,180 - INFO - User record b'524' successfully produced to retail_data_test [1] at offset 262
+2025-04-17 01:20:19,682 - INFO - User record b'525' successfully produced to retail_data_test [1] at offset 263
+2025-04-17 01:20:20,185 - INFO - User record b'526' successfully produced to retail_data_test [1] at offset 264
+2025-04-17 01:20:20,691 - INFO - User record b'527' successfully produced to retail_data_test [1] at offset 265
+2025-04-17 01:20:21,199 - INFO - User record b'528' successfully produced to retail_data_test [0] at offset 262
+2025-04-17 01:20:21,702 - INFO - User record b'529' successfully produced to retail_data_test [0] at offset 263
+2025-04-17 01:20:22,204 - INFO - User record b'530' successfully produced to retail_data_test [1] at offset 266
+2025-04-17 01:20:22,721 - INFO - User record b'531' successfully produced to retail_data_test [1] at offset 267
+2025-04-17 01:20:23,234 - INFO - User record b'532' successfully produced to retail_data_test [1] at offset 268
+2025-04-17 01:20:23,751 - INFO - User record b'533' successfully produced to retail_data_test [1] at offset 269
+2025-04-17 01:20:24,263 - INFO - User record b'534' successfully produced to retail_data_test [0] at offset 264
+2025-04-17 01:20:24,771 - INFO - User record b'535' successfully produced to retail_data_test [0] at offset 265
+2025-04-17 01:20:25,275 - INFO - User record b'536' successfully produced to retail_data_test [0] at offset 266
+2025-04-17 01:20:25,778 - INFO - User record b'537' successfully produced to retail_data_test [0] at offset 267
+2025-04-17 01:20:26,279 - INFO - User record b'538' successfully produced to retail_data_test [1] at offset 270
+2025-04-17 01:20:26,783 - INFO - User record b'539' successfully produced to retail_data_test [1] at offset 271
+2025-04-17 01:20:27,284 - INFO - User record b'540' successfully produced to retail_data_test [0] at offset 268
+2025-04-17 01:20:27,800 - INFO - User record b'541' successfully produced to retail_data_test [0] at offset 269
+2025-04-17 01:20:28,315 - INFO - User record b'542' successfully produced to retail_data_test [0] at offset 270
+2025-04-17 01:20:28,817 - INFO - User record b'543' successfully produced to retail_data_test [0] at offset 271
+2025-04-17 01:20:29,327 - INFO - User record b'544' successfully produced to retail_data_test [1] at offset 272
+2025-04-17 01:20:29,841 - INFO - User record b'545' successfully produced to retail_data_test [1] at offset 273
+2025-04-17 01:20:30,347 - INFO - User record b'546' successfully produced to retail_data_test [1] at offset 274
+2025-04-17 01:20:30,853 - INFO - User record b'547' successfully produced to retail_data_test [1] at offset 275
+2025-04-17 01:20:31,356 - INFO - User record b'548' successfully produced to retail_data_test [0] at offset 272
+2025-04-17 01:20:31,860 - INFO - User record b'549' successfully produced to retail_data_test [0] at offset 273
+2025-04-17 01:20:32,375 - INFO - User record b'550' successfully produced to retail_data_test [1] at offset 276
+2025-04-17 01:20:32,880 - INFO - User record b'551' successfully produced to retail_data_test [1] at offset 277
+2025-04-17 01:20:33,392 - INFO - User record b'552' successfully produced to retail_data_test [1] at offset 278
+2025-04-17 01:20:33,909 - INFO - User record b'553' successfully produced to retail_data_test [1] at offset 279
+2025-04-17 01:20:34,422 - INFO - User record b'554' successfully produced to retail_data_test [0] at offset 274
+2025-04-17 01:20:34,935 - INFO - User record b'555' successfully produced to retail_data_test [0] at offset 275
+2025-04-17 01:20:35,451 - INFO - User record b'556' successfully produced to retail_data_test [0] at offset 276
+2025-04-17 01:20:35,954 - INFO - User record b'557' successfully produced to retail_data_test [0] at offset 277
+2025-04-17 01:20:36,456 - INFO - User record b'558' successfully produced to retail_data_test [1] at offset 280
+2025-04-17 01:20:36,972 - INFO - User record b'559' successfully produced to retail_data_test [1] at offset 281
+2025-04-17 01:20:37,484 - INFO - User record b'560' successfully produced to retail_data_test [0] at offset 278
+2025-04-17 01:20:37,999 - INFO - User record b'561' successfully produced to retail_data_test [0] at offset 279
+2025-04-17 01:20:38,514 - INFO - User record b'562' successfully produced to retail_data_test [0] at offset 280
+2025-04-17 01:20:39,026 - INFO - User record b'563' successfully produced to retail_data_test [0] at offset 281
+2025-04-17 01:20:39,543 - INFO - User record b'564' successfully produced to retail_data_test [1] at offset 282
+2025-04-17 01:20:40,058 - INFO - User record b'565' successfully produced to retail_data_test [1] at offset 283
+2025-04-17 01:20:40,575 - INFO - User record b'566' successfully produced to retail_data_test [1] at offset 284
+2025-04-17 01:20:41,078 - INFO - User record b'567' successfully produced to retail_data_test [1] at offset 285
+2025-04-17 01:20:41,581 - INFO - User record b'568' successfully produced to retail_data_test [0] at offset 282
+2025-04-17 01:20:42,097 - INFO - User record b'569' successfully produced to retail_data_test [0] at offset 283
+2025-04-17 01:20:42,611 - INFO - User record b'570' successfully produced to retail_data_test [1] at offset 286
+2025-04-17 01:20:43,127 - INFO - User record b'571' successfully produced to retail_data_test [1] at offset 287
+2025-04-17 01:20:43,631 - INFO - User record b'572' successfully produced to retail_data_test [1] at offset 288
+2025-04-17 01:20:44,136 - INFO - User record b'573' successfully produced to retail_data_test [1] at offset 289
+2025-04-17 01:20:44,639 - INFO - User record b'574' successfully produced to retail_data_test [0] at offset 284
+2025-04-17 01:20:45,145 - INFO - User record b'575' successfully produced to retail_data_test [0] at offset 285
+2025-04-17 01:20:45,653 - INFO - User record b'576' successfully produced to retail_data_test [0] at offset 286
+2025-04-17 01:20:46,157 - INFO - User record b'577' successfully produced to retail_data_test [0] at offset 287
+2025-04-17 01:20:46,663 - INFO - User record b'578' successfully produced to retail_data_test [1] at offset 290
+2025-04-17 01:20:47,172 - INFO - User record b'579' successfully produced to retail_data_test [1] at offset 291
+2025-04-17 01:20:47,681 - INFO - User record b'580' successfully produced to retail_data_test [0] at offset 288
+2025-04-17 01:20:48,183 - INFO - User record b'581' successfully produced to retail_data_test [0] at offset 289
+2025-04-17 01:20:48,687 - INFO - User record b'582' successfully produced to retail_data_test [0] at offset 290
+2025-04-17 01:20:49,189 - INFO - User record b'583' successfully produced to retail_data_test [0] at offset 291
+2025-04-17 01:20:49,691 - INFO - User record b'584' successfully produced to retail_data_test [1] at offset 292
+2025-04-17 01:20:50,197 - INFO - User record b'585' successfully produced to retail_data_test [1] at offset 293
+2025-04-17 01:20:50,702 - INFO - User record b'586' successfully produced to retail_data_test [1] at offset 294
+2025-04-17 01:20:51,216 - INFO - User record b'587' successfully produced to retail_data_test [1] at offset 295
+2025-04-17 01:20:51,731 - INFO - User record b'588' successfully produced to retail_data_test [0] at offset 292
+2025-04-17 01:20:52,248 - INFO - User record b'589' successfully produced to retail_data_test [0] at offset 293
+2025-04-17 01:20:52,762 - INFO - User record b'590' successfully produced to retail_data_test [1] at offset 296
+2025-04-17 01:20:54,308 - INFO - User record b'591' successfully produced to retail_data_test [1] at offset 297
+2025-04-17 01:20:54,308 - INFO - User record b'592' successfully produced to retail_data_test [1] at offset 298
+2025-04-17 01:20:54,308 - INFO - User record b'593' successfully produced to retail_data_test [1] at offset 299
+2025-04-17 01:20:54,819 - INFO - User record b'594' successfully produced to retail_data_test [0] at offset 294
+2025-04-17 01:20:55,333 - INFO - User record b'595' successfully produced to retail_data_test [0] at offset 295
+2025-04-17 01:20:55,851 - INFO - User record b'596' successfully produced to retail_data_test [0] at offset 296
+2025-04-17 01:20:56,363 - INFO - User record b'597' successfully produced to retail_data_test [0] at offset 297
+2025-04-17 01:20:56,876 - INFO - User record b'598' successfully produced to retail_data_test [1] at offset 300
+2025-04-17 01:20:57,394 - INFO - User record b'599' successfully produced to retail_data_test [1] at offset 301
+2025-04-17 01:20:57,908 - INFO - User record b'600' successfully produced to retail_data_test [1] at offset 302
+2025-04-17 01:20:58,421 - INFO - User record b'601' successfully produced to retail_data_test [1] at offset 303
+2025-04-17 01:20:58,936 - INFO - User record b'602' successfully produced to retail_data_test [1] at offset 304
+2025-04-17 01:20:59,451 - INFO - User record b'603' successfully produced to retail_data_test [1] at offset 305
+2025-04-17 01:20:59,965 - INFO - User record b'604' successfully produced to retail_data_test [0] at offset 298
+2025-04-17 01:21:00,480 - INFO - User record b'605' successfully produced to retail_data_test [0] at offset 299
+2025-04-17 01:21:00,996 - INFO - User record b'606' successfully produced to retail_data_test [0] at offset 300
+2025-04-17 01:21:01,511 - INFO - User record b'607' successfully produced to retail_data_test [0] at offset 301
+2025-04-17 01:21:02,012 - INFO - User record b'608' successfully produced to retail_data_test [1] at offset 306
+2025-04-17 01:21:02,514 - INFO - User record b'609' successfully produced to retail_data_test [1] at offset 307
+2025-04-17 01:21:03,016 - INFO - User record b'610' successfully produced to retail_data_test [0] at offset 302
+2025-04-17 01:21:03,519 - INFO - User record b'611' successfully produced to retail_data_test [0] at offset 303
+2025-04-17 01:21:04,031 - INFO - User record b'612' successfully produced to retail_data_test [0] at offset 304
+2025-04-17 01:21:04,534 - INFO - User record b'613' successfully produced to retail_data_test [0] at offset 305
+2025-04-17 01:21:05,041 - INFO - User record b'614' successfully produced to retail_data_test [1] at offset 308
+2025-04-17 01:21:05,543 - INFO - User record b'615' successfully produced to retail_data_test [1] at offset 309
+2025-04-17 01:21:06,048 - INFO - User record b'616' successfully produced to retail_data_test [1] at offset 310
+2025-04-17 01:21:06,556 - INFO - User record b'617' successfully produced to retail_data_test [1] at offset 311
+2025-04-17 01:21:07,063 - INFO - User record b'618' successfully produced to retail_data_test [0] at offset 306
+2025-04-17 01:21:07,568 - INFO - User record b'619' successfully produced to retail_data_test [0] at offset 307
+2025-04-17 01:21:08,078 - INFO - User record b'620' successfully produced to retail_data_test [1] at offset 312
+2025-04-17 01:21:08,579 - INFO - User record b'621' successfully produced to retail_data_test [1] at offset 313
+2025-04-17 01:21:09,094 - INFO - User record b'622' successfully produced to retail_data_test [1] at offset 314
+2025-04-17 01:21:09,608 - INFO - User record b'623' successfully produced to retail_data_test [1] at offset 315
+2025-04-17 01:21:10,110 - INFO - User record b'624' successfully produced to retail_data_test [0] at offset 308
+2025-04-17 01:21:10,626 - INFO - User record b'625' successfully produced to retail_data_test [0] at offset 309
+2025-04-17 01:21:11,142 - INFO - User record b'626' successfully produced to retail_data_test [0] at offset 310
+2025-04-17 01:21:11,646 - INFO - User record b'627' successfully produced to retail_data_test [0] at offset 311
+2025-04-17 01:21:12,151 - INFO - User record b'628' successfully produced to retail_data_test [1] at offset 316
+2025-04-17 01:21:12,665 - INFO - User record b'629' successfully produced to retail_data_test [1] at offset 317
+2025-04-17 01:21:13,169 - INFO - User record b'630' successfully produced to retail_data_test [0] at offset 312
+2025-04-17 01:21:13,670 - INFO - User record b'631' successfully produced to retail_data_test [0] at offset 313
+2025-04-17 01:21:14,187 - INFO - User record b'632' successfully produced to retail_data_test [0] at offset 314
+2025-04-17 01:21:14,689 - INFO - User record b'633' successfully produced to retail_data_test [0] at offset 315
+2025-04-17 01:21:15,193 - INFO - User record b'634' successfully produced to retail_data_test [1] at offset 318
+2025-04-17 01:21:15,696 - INFO - User record b'635' successfully produced to retail_data_test [1] at offset 319
+2025-04-17 01:21:16,212 - INFO - User record b'636' successfully produced to retail_data_test [1] at offset 320
+2025-04-17 01:21:16,716 - INFO - User record b'637' successfully produced to retail_data_test [1] at offset 321
+2025-04-17 01:21:17,222 - INFO - User record b'638' successfully produced to retail_data_test [0] at offset 316
+2025-04-17 01:21:17,735 - INFO - User record b'639' successfully produced to retail_data_test [0] at offset 317
+2025-04-17 01:21:18,251 - INFO - User record b'640' successfully produced to retail_data_test [1] at offset 322
+2025-04-17 01:21:18,752 - INFO - User record b'641' successfully produced to retail_data_test [1] at offset 323
+2025-04-17 01:21:19,266 - INFO - User record b'642' successfully produced to retail_data_test [1] at offset 324
+2025-04-17 01:21:19,782 - INFO - User record b'643' successfully produced to retail_data_test [1] at offset 325
+2025-04-17 01:21:20,287 - INFO - User record b'644' successfully produced to retail_data_test [0] at offset 318
+2025-04-17 01:21:20,792 - INFO - User record b'645' successfully produced to retail_data_test [0] at offset 319
+2025-04-17 01:21:21,304 - INFO - User record b'646' successfully produced to retail_data_test [0] at offset 320
+2025-04-17 01:21:21,805 - INFO - User record b'647' successfully produced to retail_data_test [0] at offset 321
+2025-04-17 01:21:22,308 - INFO - User record b'648' successfully produced to retail_data_test [1] at offset 326
+2025-04-17 01:21:22,825 - INFO - User record b'649' successfully produced to retail_data_test [1] at offset 327
+2025-04-17 01:21:23,340 - INFO - User record b'650' successfully produced to retail_data_test [0] at offset 322
+2025-04-17 01:21:23,842 - INFO - User record b'651' successfully produced to retail_data_test [0] at offset 323
+2025-04-17 01:21:24,346 - INFO - User record b'652' successfully produced to retail_data_test [0] at offset 324
+2025-04-17 01:21:24,848 - INFO - User record b'653' successfully produced to retail_data_test [0] at offset 325
+2025-04-17 01:21:25,354 - INFO - User record b'654' successfully produced to retail_data_test [1] at offset 328
+2025-04-17 01:21:25,871 - INFO - User record b'655' successfully produced to retail_data_test [1] at offset 329
+2025-04-17 01:21:26,386 - INFO - User record b'656' successfully produced to retail_data_test [1] at offset 330
+2025-04-17 01:21:26,889 - INFO - User record b'657' successfully produced to retail_data_test [1] at offset 331
+2025-04-17 01:21:27,392 - INFO - User record b'658' successfully produced to retail_data_test [0] at offset 326
+2025-04-17 01:21:27,893 - INFO - User record b'659' successfully produced to retail_data_test [0] at offset 327
+2025-04-17 01:21:28,397 - INFO - User record b'660' successfully produced to retail_data_test [1] at offset 332
+2025-04-17 01:21:28,911 - INFO - User record b'661' successfully produced to retail_data_test [1] at offset 333
+2025-04-17 01:21:29,416 - INFO - User record b'662' successfully produced to retail_data_test [1] at offset 334
+2025-04-17 01:21:29,921 - INFO - User record b'663' successfully produced to retail_data_test [1] at offset 335
+2025-04-17 01:21:30,423 - INFO - User record b'664' successfully produced to retail_data_test [0] at offset 328
+2025-04-17 01:21:30,925 - INFO - User record b'665' successfully produced to retail_data_test [0] at offset 329
+2025-04-17 01:21:31,431 - INFO - User record b'666' successfully produced to retail_data_test [0] at offset 330
+2025-04-17 01:21:31,947 - INFO - User record b'667' successfully produced to retail_data_test [0] at offset 331
+2025-04-17 01:21:32,453 - INFO - User record b'668' successfully produced to retail_data_test [1] at offset 336
+2025-04-17 01:21:32,968 - INFO - User record b'669' successfully produced to retail_data_test [1] at offset 337
+2025-04-17 01:21:33,472 - INFO - User record b'670' successfully produced to retail_data_test [0] at offset 332
+2025-04-17 01:21:33,974 - INFO - User record b'671' successfully produced to retail_data_test [0] at offset 333
+2025-04-17 01:21:34,478 - INFO - User record b'672' successfully produced to retail_data_test [0] at offset 334
+2025-04-17 01:21:34,980 - INFO - User record b'673' successfully produced to retail_data_test [0] at offset 335
+2025-04-17 01:21:35,486 - INFO - User record b'674' successfully produced to retail_data_test [1] at offset 338
+2025-04-17 01:21:35,993 - INFO - User record b'675' successfully produced to retail_data_test [1] at offset 339
+2025-04-17 01:21:37,010 - INFO - User record b'676' successfully produced to retail_data_test [1] at offset 340
+2025-04-17 01:21:37,010 - INFO - User record b'677' successfully produced to retail_data_test [1] at offset 341
+2025-04-17 01:21:37,513 - INFO - User record b'678' successfully produced to retail_data_test [0] at offset 336
+2025-04-17 01:21:38,019 - INFO - User record b'679' successfully produced to retail_data_test [0] at offset 337
+2025-04-17 01:21:40,053 - INFO - User record b'680' successfully produced to retail_data_test [1] at offset 342
+2025-04-17 01:21:40,053 - INFO - User record b'681' successfully produced to retail_data_test [1] at offset 343
+2025-04-17 01:21:40,053 - INFO - User record b'682' successfully produced to retail_data_test [1] at offset 344
+2025-04-17 01:21:40,054 - INFO - User record b'683' successfully produced to retail_data_test [1] at offset 345
+2025-04-17 01:21:40,556 - INFO - User record b'684' successfully produced to retail_data_test [0] at offset 338
+2025-04-17 01:21:41,058 - INFO - User record b'685' successfully produced to retail_data_test [0] at offset 339
+2025-04-17 01:21:41,576 - INFO - User record b'686' successfully produced to retail_data_test [0] at offset 340
+2025-04-17 01:21:42,076 - INFO - User record b'687' successfully produced to retail_data_test [0] at offset 341
+2025-04-17 01:21:42,581 - INFO - User record b'688' successfully produced to retail_data_test [1] at offset 346
+2025-04-17 01:21:43,082 - INFO - User record b'689' successfully produced to retail_data_test [1] at offset 347
+2025-04-17 01:21:43,596 - INFO - User record b'690' successfully produced to retail_data_test [0] at offset 342
+2025-04-17 01:21:44,099 - INFO - User record b'691' successfully produced to retail_data_test [0] at offset 343
+2025-04-17 01:21:44,604 - INFO - User record b'692' successfully produced to retail_data_test [0] at offset 344
+2025-04-17 01:21:45,621 - INFO - User record b'694' successfully produced to retail_data_test [1] at offset 348
+2025-04-17 01:21:45,621 - INFO - User record b'693' successfully produced to retail_data_test [0] at offset 345
+2025-04-17 01:21:46,123 - INFO - User record b'695' successfully produced to retail_data_test [1] at offset 349
+2025-04-17 01:21:46,625 - INFO - User record b'696' successfully produced to retail_data_test [1] at offset 350
+2025-04-17 01:21:47,132 - INFO - User record b'697' successfully produced to retail_data_test [1] at offset 351
+2025-04-17 01:21:47,636 - INFO - User record b'698' successfully produced to retail_data_test [0] at offset 346
+2025-04-17 01:21:48,137 - INFO - User record b'699' successfully produced to retail_data_test [0] at offset 347
+2025-04-17 01:21:48,640 - INFO - User record b'700' successfully produced to retail_data_test [0] at offset 348
+2025-04-17 01:21:49,145 - INFO - User record b'701' successfully produced to retail_data_test [0] at offset 349
+2025-04-17 01:21:49,651 - INFO - User record b'702' successfully produced to retail_data_test [0] at offset 350
+2025-04-17 01:21:50,156 - INFO - User record b'703' successfully produced to retail_data_test [0] at offset 351
+2025-04-17 01:21:50,663 - INFO - User record b'704' successfully produced to retail_data_test [1] at offset 352
+2025-04-17 01:21:51,169 - INFO - User record b'705' successfully produced to retail_data_test [1] at offset 353
+2025-04-17 01:21:51,672 - INFO - User record b'706' successfully produced to retail_data_test [1] at offset 354
+2025-04-17 01:21:52,175 - INFO - User record b'707' successfully produced to retail_data_test [1] at offset 355
+2025-04-17 01:21:52,678 - INFO - User record b'708' successfully produced to retail_data_test [0] at offset 352
+2025-04-17 01:21:53,181 - INFO - User record b'709' successfully produced to retail_data_test [0] at offset 353
+2025-04-17 01:21:53,699 - INFO - User record b'710' successfully produced to retail_data_test [1] at offset 356
+2025-04-17 01:21:54,203 - INFO - User record b'711' successfully produced to retail_data_test [1] at offset 357
+2025-04-17 01:21:54,705 - INFO - User record b'712' successfully produced to retail_data_test [1] at offset 358
+2025-04-17 01:21:55,213 - INFO - User record b'713' successfully produced to retail_data_test [1] at offset 359
+2025-04-17 01:21:55,720 - INFO - User record b'714' successfully produced to retail_data_test [0] at offset 354
+2025-04-17 01:21:56,229 - INFO - User record b'715' successfully produced to retail_data_test [0] at offset 355
+2025-04-17 01:21:56,742 - INFO - User record b'716' successfully produced to retail_data_test [0] at offset 356
+2025-04-17 01:21:57,258 - INFO - User record b'717' successfully produced to retail_data_test [0] at offset 357
+2025-04-17 01:21:57,763 - INFO - User record b'718' successfully produced to retail_data_test [1] at offset 360
+2025-04-17 01:21:58,780 - INFO - User record b'720' successfully produced to retail_data_test [0] at offset 358
+2025-04-17 01:21:58,781 - INFO - User record b'719' successfully produced to retail_data_test [1] at offset 361
+2025-04-17 01:21:59,295 - INFO - User record b'721' successfully produced to retail_data_test [0] at offset 359
+2025-04-17 01:21:59,810 - INFO - User record b'722' successfully produced to retail_data_test [0] at offset 360
+2025-04-17 01:22:00,313 - INFO - User record b'723' successfully produced to retail_data_test [0] at offset 361
+2025-04-17 01:22:00,821 - INFO - User record b'724' successfully produced to retail_data_test [1] at offset 362
+2025-04-17 01:22:01,325 - INFO - User record b'725' successfully produced to retail_data_test [1] at offset 363
+2025-04-17 01:22:01,832 - INFO - User record b'726' successfully produced to retail_data_test [1] at offset 364
+2025-04-17 01:22:02,341 - INFO - User record b'727' successfully produced to retail_data_test [1] at offset 365
+2025-04-17 01:22:02,847 - INFO - User record b'728' successfully produced to retail_data_test [0] at offset 362
+2025-04-17 01:22:03,352 - INFO - User record b'729' successfully produced to retail_data_test [0] at offset 363
+2025-04-17 01:22:03,854 - INFO - User record b'730' successfully produced to retail_data_test [1] at offset 366
+2025-04-17 01:22:04,356 - INFO - User record b'731' successfully produced to retail_data_test [1] at offset 367
+2025-04-17 01:22:04,870 - INFO - User record b'732' successfully produced to retail_data_test [1] at offset 368
+2025-04-17 01:22:05,385 - INFO - User record b'733' successfully produced to retail_data_test [1] at offset 369
+2025-04-17 01:22:05,891 - INFO - User record b'734' successfully produced to retail_data_test [0] at offset 364
+2025-04-17 01:22:06,397 - INFO - User record b'735' successfully produced to retail_data_test [0] at offset 365
+2025-04-17 01:22:06,899 - INFO - User record b'736' successfully produced to retail_data_test [0] at offset 366
+2025-04-17 01:22:07,416 - INFO - User record b'737' successfully produced to retail_data_test [0] at offset 367
+2025-04-17 01:22:07,918 - INFO - User record b'738' successfully produced to retail_data_test [1] at offset 370
+2025-04-17 01:22:08,433 - INFO - User record b'739' successfully produced to retail_data_test [1] at offset 371
+2025-04-17 01:22:08,949 - INFO - User record b'740' successfully produced to retail_data_test [0] at offset 368
+2025-04-17 01:22:09,453 - INFO - User record b'741' successfully produced to retail_data_test [0] at offset 369
+2025-04-17 01:22:09,957 - INFO - User record b'742' successfully produced to retail_data_test [0] at offset 370
+2025-04-17 01:22:10,468 - INFO - User record b'743' successfully produced to retail_data_test [0] at offset 371
+2025-04-17 01:22:10,971 - INFO - User record b'744' successfully produced to retail_data_test [1] at offset 372
+2025-04-17 01:22:11,473 - INFO - User record b'745' successfully produced to retail_data_test [1] at offset 373
+2025-04-17 01:22:11,977 - INFO - User record b'746' successfully produced to retail_data_test [1] at offset 374
+2025-04-17 01:22:12,479 - INFO - User record b'747' successfully produced to retail_data_test [1] at offset 375
+2025-04-17 01:22:12,981 - INFO - User record b'748' successfully produced to retail_data_test [0] at offset 372
+2025-04-17 01:22:13,499 - INFO - User record b'749' successfully produced to retail_data_test [0] at offset 373
+2025-04-17 01:22:14,004 - INFO - User record b'750' successfully produced to retail_data_test [1] at offset 376
+2025-04-17 01:22:14,519 - INFO - User record b'751' successfully produced to retail_data_test [1] at offset 377
+2025-04-17 01:22:15,035 - INFO - User record b'752' successfully produced to retail_data_test [1] at offset 378
+2025-04-17 01:22:15,541 - INFO - User record b'753' successfully produced to retail_data_test [1] at offset 379
+2025-04-17 01:22:16,044 - INFO - User record b'754' successfully produced to retail_data_test [0] at offset 374
+2025-04-17 01:22:16,548 - INFO - User record b'755' successfully produced to retail_data_test [0] at offset 375
+2025-04-17 01:22:17,053 - INFO - User record b'756' successfully produced to retail_data_test [0] at offset 376
+2025-04-17 01:22:17,563 - INFO - User record b'757' successfully produced to retail_data_test [0] at offset 377
+2025-04-17 01:22:18,066 - INFO - User record b'758' successfully produced to retail_data_test [1] at offset 380
+2025-04-17 01:22:18,568 - INFO - User record b'759' successfully produced to retail_data_test [1] at offset 381
+2025-04-17 01:22:19,077 - INFO - User record b'760' successfully produced to retail_data_test [0] at offset 378
+2025-04-17 01:22:19,583 - INFO - User record b'761' successfully produced to retail_data_test [0] at offset 379
+2025-04-17 01:22:20,086 - INFO - User record b'762' successfully produced to retail_data_test [0] at offset 380
+2025-04-17 01:22:20,590 - INFO - User record b'763' successfully produced to retail_data_test [0] at offset 381
+2025-04-17 01:22:21,091 - INFO - User record b'764' successfully produced to retail_data_test [1] at offset 382
+2025-04-17 01:22:21,594 - INFO - User record b'765' successfully produced to retail_data_test [1] at offset 383
+2025-04-17 01:22:22,110 - INFO - User record b'766' successfully produced to retail_data_test [1] at offset 384
+2025-04-17 01:22:22,627 - INFO - User record b'767' successfully produced to retail_data_test [1] at offset 385
+2025-04-17 01:22:23,142 - INFO - User record b'768' successfully produced to retail_data_test [0] at offset 382
+2025-04-17 01:22:23,658 - INFO - User record b'769' successfully produced to retail_data_test [0] at offset 383
+2025-04-17 01:22:24,169 - INFO - User record b'770' successfully produced to retail_data_test [1] at offset 386
+2025-04-17 01:22:24,684 - INFO - User record b'771' successfully produced to retail_data_test [1] at offset 387
+2025-04-17 01:22:25,186 - INFO - User record b'772' successfully produced to retail_data_test [1] at offset 388
+2025-04-17 01:22:25,702 - INFO - User record b'773' successfully produced to retail_data_test [1] at offset 389
+2025-04-17 01:22:26,217 - INFO - User record b'774' successfully produced to retail_data_test [0] at offset 384
+2025-04-17 01:22:26,729 - INFO - User record b'775' successfully produced to retail_data_test [0] at offset 385
+2025-04-17 01:22:27,243 - INFO - User record b'776' successfully produced to retail_data_test [0] at offset 386
+2025-04-17 01:22:27,746 - INFO - User record b'777' successfully produced to retail_data_test [0] at offset 387
+2025-04-17 01:22:28,261 - INFO - User record b'778' successfully produced to retail_data_test [1] at offset 390
+2025-04-17 01:22:28,771 - INFO - User record b'779' successfully produced to retail_data_test [1] at offset 391
+2025-04-17 01:22:29,280 - INFO - User record b'780' successfully produced to retail_data_test [0] at offset 388
+2025-04-17 01:22:29,790 - INFO - User record b'781' successfully produced to retail_data_test [0] at offset 389
+2025-04-17 01:22:30,305 - INFO - User record b'782' successfully produced to retail_data_test [0] at offset 390
+2025-04-17 01:22:30,821 - INFO - User record b'783' successfully produced to retail_data_test [0] at offset 391
+2025-04-17 01:22:31,337 - INFO - User record b'784' successfully produced to retail_data_test [1] at offset 392
+2025-04-17 01:22:31,850 - INFO - User record b'785' successfully produced to retail_data_test [1] at offset 393
+2025-04-17 01:22:32,365 - INFO - User record b'786' successfully produced to retail_data_test [1] at offset 394
+2025-04-17 01:22:32,881 - INFO - User record b'787' successfully produced to retail_data_test [1] at offset 395
+2025-04-17 01:22:33,390 - INFO - User record b'788' successfully produced to retail_data_test [0] at offset 392
+2025-04-17 01:22:33,894 - INFO - User record b'789' successfully produced to retail_data_test [0] at offset 393
+2025-04-17 01:22:34,408 - INFO - User record b'790' successfully produced to retail_data_test [1] at offset 396
+2025-04-17 01:22:34,924 - INFO - User record b'791' successfully produced to retail_data_test [1] at offset 397
+2025-04-17 01:22:35,438 - INFO - User record b'792' successfully produced to retail_data_test [1] at offset 398
+2025-04-17 01:22:35,951 - INFO - User record b'793' successfully produced to retail_data_test [1] at offset 399
+2025-04-17 01:22:36,468 - INFO - User record b'794' successfully produced to retail_data_test [0] at offset 394
+2025-04-17 01:22:36,982 - INFO - User record b'795' successfully produced to retail_data_test [0] at offset 395
+2025-04-17 01:22:37,498 - INFO - User record b'796' successfully produced to retail_data_test [0] at offset 396
+2025-04-17 01:22:38,016 - INFO - User record b'797' successfully produced to retail_data_test [0] at offset 397
+2025-04-17 01:22:38,553 - INFO - User record b'798' successfully produced to retail_data_test [1] at offset 400
+2025-04-17 01:22:39,053 - INFO - User record b'799' successfully produced to retail_data_test [1] at offset 401
+2025-04-17 01:22:39,568 - INFO - User record b'800' successfully produced to retail_data_test [1] at offset 402
+2025-04-17 01:22:40,082 - INFO - User record b'801' successfully produced to retail_data_test [1] at offset 403
+2025-04-17 01:22:40,587 - INFO - User record b'802' successfully produced to retail_data_test [1] at offset 404
+2025-04-17 01:22:41,089 - INFO - User record b'803' successfully produced to retail_data_test [1] at offset 405
+2025-04-17 01:22:41,591 - INFO - User record b'804' successfully produced to retail_data_test [0] at offset 398
+2025-04-17 01:22:42,106 - INFO - User record b'805' successfully produced to retail_data_test [0] at offset 399
+2025-04-17 01:22:42,623 - INFO - User record b'806' successfully produced to retail_data_test [0] at offset 400
+2025-04-17 01:22:43,127 - INFO - User record b'807' successfully produced to retail_data_test [0] at offset 401
+2025-04-17 01:22:43,629 - INFO - User record b'808' successfully produced to retail_data_test [1] at offset 406
+2025-04-17 01:22:44,145 - INFO - User record b'809' successfully produced to retail_data_test [1] at offset 407
+2025-04-17 01:22:44,647 - INFO - User record b'810' successfully produced to retail_data_test [0] at offset 402
+2025-04-17 01:22:45,150 - INFO - User record b'811' successfully produced to retail_data_test [0] at offset 403
+2025-04-17 01:22:45,652 - INFO - User record b'812' successfully produced to retail_data_test [0] at offset 404
+2025-04-17 01:22:46,160 - INFO - User record b'813' successfully produced to retail_data_test [0] at offset 405
+2025-04-17 01:22:46,664 - INFO - User record b'814' successfully produced to retail_data_test [1] at offset 408
+2025-04-17 01:22:47,179 - INFO - User record b'815' successfully produced to retail_data_test [1] at offset 409
+2025-04-17 01:22:47,682 - INFO - User record b'816' successfully produced to retail_data_test [1] at offset 410
+2025-04-17 01:22:48,185 - INFO - User record b'817' successfully produced to retail_data_test [1] at offset 411
+2025-04-17 01:22:48,700 - INFO - User record b'818' successfully produced to retail_data_test [0] at offset 406
+2025-04-17 01:22:49,204 - INFO - User record b'819' successfully produced to retail_data_test [0] at offset 407
+2025-04-17 01:22:49,705 - INFO - User record b'820' successfully produced to retail_data_test [1] at offset 412
+2025-04-17 01:22:50,208 - INFO - User record b'821' successfully produced to retail_data_test [1] at offset 413
+2025-04-17 01:22:50,718 - INFO - User record b'822' successfully produced to retail_data_test [1] at offset 414
+2025-04-17 01:22:51,226 - INFO - User record b'823' successfully produced to retail_data_test [1] at offset 415
+2025-04-17 01:22:51,730 - INFO - User record b'824' successfully produced to retail_data_test [0] at offset 408
+2025-04-17 01:22:52,236 - INFO - User record b'825' successfully produced to retail_data_test [0] at offset 409
+2025-04-17 01:22:52,739 - INFO - User record b'826' successfully produced to retail_data_test [0] at offset 410
+2025-04-17 01:22:53,245 - INFO - User record b'827' successfully produced to retail_data_test [0] at offset 411
+2025-04-17 01:22:53,751 - INFO - User record b'828' successfully produced to retail_data_test [1] at offset 416
+2025-04-17 01:22:54,254 - INFO - User record b'829' successfully produced to retail_data_test [1] at offset 417
+2025-04-17 01:22:54,761 - INFO - User record b'830' successfully produced to retail_data_test [0] at offset 412
+2025-04-17 01:22:55,270 - INFO - User record b'831' successfully produced to retail_data_test [0] at offset 413
+2025-04-17 01:22:55,777 - INFO - User record b'832' successfully produced to retail_data_test [0] at offset 414
+2025-04-17 01:22:56,280 - INFO - User record b'833' successfully produced to retail_data_test [0] at offset 415
+2025-04-17 01:22:56,782 - INFO - User record b'834' successfully produced to retail_data_test [1] at offset 418
+2025-04-17 01:22:57,287 - INFO - User record b'835' successfully produced to retail_data_test [1] at offset 419
+2025-04-17 01:22:57,802 - INFO - User record b'836' successfully produced to retail_data_test [1] at offset 420
+2025-04-17 01:22:58,313 - INFO - User record b'837' successfully produced to retail_data_test [1] at offset 421
+2025-04-17 01:22:58,830 - INFO - User record b'838' successfully produced to retail_data_test [0] at offset 416
+2025-04-17 01:22:59,345 - INFO - User record b'839' successfully produced to retail_data_test [0] at offset 417
+2025-04-17 01:22:59,848 - INFO - User record b'840' successfully produced to retail_data_test [1] at offset 422
+2025-04-17 01:23:00,363 - INFO - User record b'841' successfully produced to retail_data_test [1] at offset 423
+2025-04-17 01:23:00,879 - INFO - User record b'842' successfully produced to retail_data_test [1] at offset 424
+2025-04-17 01:23:01,383 - INFO - User record b'843' successfully produced to retail_data_test [1] at offset 425
+2025-04-17 01:23:01,898 - INFO - User record b'844' successfully produced to retail_data_test [0] at offset 418
+2025-04-17 01:23:02,413 - INFO - User record b'845' successfully produced to retail_data_test [0] at offset 419
+2025-04-17 01:23:02,915 - INFO - User record b'846' successfully produced to retail_data_test [0] at offset 420
+2025-04-17 01:23:03,423 - INFO - User record b'847' successfully produced to retail_data_test [0] at offset 421
+2025-04-17 01:23:03,924 - INFO - User record b'848' successfully produced to retail_data_test [1] at offset 426
+2025-04-17 01:23:04,427 - INFO - User record b'849' successfully produced to retail_data_test [1] at offset 427
+2025-04-17 01:23:04,932 - INFO - User record b'850' successfully produced to retail_data_test [0] at offset 422
+2025-04-17 01:23:05,433 - INFO - User record b'851' successfully produced to retail_data_test [0] at offset 423
+2025-04-17 01:23:05,937 - INFO - User record b'852' successfully produced to retail_data_test [0] at offset 424
+2025-04-17 01:23:06,439 - INFO - User record b'853' successfully produced to retail_data_test [0] at offset 425
+2025-04-17 01:23:06,942 - INFO - User record b'854' successfully produced to retail_data_test [1] at offset 428
+2025-04-17 01:23:07,444 - INFO - User record b'855' successfully produced to retail_data_test [1] at offset 429
+2025-04-17 01:23:07,959 - INFO - User record b'856' successfully produced to retail_data_test [1] at offset 430
+2025-04-17 01:23:08,473 - INFO - User record b'857' successfully produced to retail_data_test [1] at offset 431
+2025-04-17 01:23:08,978 - INFO - User record b'858' successfully produced to retail_data_test [0] at offset 426
+2025-04-17 01:23:09,494 - INFO - User record b'859' successfully produced to retail_data_test [0] at offset 427
+2025-04-17 01:23:10,007 - INFO - User record b'860' successfully produced to retail_data_test [1] at offset 432
+2025-04-17 01:23:10,510 - INFO - User record b'861' successfully produced to retail_data_test [1] at offset 433
+2025-04-17 01:23:11,013 - INFO - User record b'862' successfully produced to retail_data_test [1] at offset 434
+2025-04-17 01:23:11,516 - INFO - User record b'863' successfully produced to retail_data_test [1] at offset 435
+2025-04-17 01:23:12,023 - INFO - User record b'864' successfully produced to retail_data_test [0] at offset 428
+2025-04-17 01:23:12,538 - INFO - User record b'865' successfully produced to retail_data_test [0] at offset 429
+2025-04-17 01:23:13,041 - INFO - User record b'866' successfully produced to retail_data_test [0] at offset 430
+2025-04-17 01:23:13,542 - INFO - User record b'867' successfully produced to retail_data_test [0] at offset 431
+2025-04-17 01:23:14,045 - INFO - User record b'868' successfully produced to retail_data_test [1] at offset 436
+2025-04-17 01:23:14,549 - INFO - User record b'869' successfully produced to retail_data_test [1] at offset 437
+2025-04-17 01:23:15,064 - INFO - User record b'870' successfully produced to retail_data_test [0] at offset 432
+2025-04-17 01:23:15,579 - INFO - User record b'871' successfully produced to retail_data_test [0] at offset 433
+2025-04-17 01:23:16,081 - INFO - User record b'872' successfully produced to retail_data_test [0] at offset 434
+2025-04-17 01:23:16,589 - INFO - User record b'873' successfully produced to retail_data_test [0] at offset 435
+2025-04-17 01:23:17,096 - INFO - User record b'874' successfully produced to retail_data_test [1] at offset 438
+2025-04-17 01:23:17,613 - INFO - User record b'875' successfully produced to retail_data_test [1] at offset 439
+2025-04-17 01:23:18,120 - INFO - User record b'876' successfully produced to retail_data_test [1] at offset 440
+2025-04-17 01:23:18,625 - INFO - User record b'877' successfully produced to retail_data_test [1] at offset 441
+2025-04-17 01:23:19,139 - INFO - User record b'878' successfully produced to retail_data_test [0] at offset 436
+2025-04-17 01:23:19,647 - INFO - User record b'879' successfully produced to retail_data_test [0] at offset 437
+2025-04-17 01:23:20,153 - INFO - User record b'880' successfully produced to retail_data_test [1] at offset 442
+2025-04-17 01:23:20,666 - INFO - User record b'881' successfully produced to retail_data_test [1] at offset 443
+2025-04-17 01:23:21,168 - INFO - User record b'882' successfully produced to retail_data_test [1] at offset 444
+2025-04-17 01:23:21,680 - INFO - User record b'883' successfully produced to retail_data_test [1] at offset 445
+2025-04-17 01:23:22,184 - INFO - User record b'884' successfully produced to retail_data_test [0] at offset 438
+2025-04-17 01:23:22,688 - INFO - User record b'885' successfully produced to retail_data_test [0] at offset 439
+2025-04-17 01:23:23,191 - INFO - User record b'886' successfully produced to retail_data_test [0] at offset 440
+2025-04-17 01:23:23,697 - INFO - User record b'887' successfully produced to retail_data_test [0] at offset 441
+2025-04-17 01:23:24,202 - INFO - User record b'888' successfully produced to retail_data_test [1] at offset 446
+2025-04-17 01:23:24,717 - INFO - User record b'889' successfully produced to retail_data_test [1] at offset 447
+2025-04-17 01:23:25,221 - INFO - User record b'890' successfully produced to retail_data_test [0] at offset 442
+2025-04-17 01:23:25,734 - INFO - User record b'891' successfully produced to retail_data_test [0] at offset 443
+2025-04-17 01:23:26,244 - INFO - User record b'892' successfully produced to retail_data_test [0] at offset 444
+2025-04-17 01:23:26,750 - INFO - User record b'893' successfully produced to retail_data_test [0] at offset 445
+2025-04-17 01:23:27,261 - INFO - User record b'894' successfully produced to retail_data_test [1] at offset 448
+2025-04-17 01:23:27,776 - INFO - User record b'895' successfully produced to retail_data_test [1] at offset 449
+2025-04-17 01:23:28,289 - INFO - User record b'896' successfully produced to retail_data_test [1] at offset 450
+2025-04-17 01:23:28,792 - INFO - User record b'897' successfully produced to retail_data_test [1] at offset 451
+2025-04-17 01:23:29,297 - INFO - User record b'898' successfully produced to retail_data_test [0] at offset 446
+2025-04-17 01:23:29,802 - INFO - User record b'899' successfully produced to retail_data_test [0] at offset 447
+2025-04-17 01:23:30,303 - INFO - User record b'900' successfully produced to retail_data_test [0] at offset 448
+2025-04-17 01:23:30,818 - INFO - User record b'901' successfully produced to retail_data_test [0] at offset 449
+2025-04-17 01:23:31,333 - INFO - User record b'902' successfully produced to retail_data_test [0] at offset 450
+2025-04-17 01:23:31,845 - INFO - User record b'903' successfully produced to retail_data_test [0] at offset 451
+2025-04-17 01:23:32,359 - INFO - User record b'904' successfully produced to retail_data_test [1] at offset 452
+2025-04-17 01:23:32,873 - INFO - User record b'905' successfully produced to retail_data_test [1] at offset 453
+2025-04-17 01:23:33,375 - INFO - User record b'906' successfully produced to retail_data_test [1] at offset 454
+2025-04-17 01:23:33,880 - INFO - User record b'907' successfully produced to retail_data_test [1] at offset 455
+2025-04-17 01:23:34,383 - INFO - User record b'908' successfully produced to retail_data_test [0] at offset 452
+2025-04-17 01:23:34,888 - INFO - User record b'909' successfully produced to retail_data_test [0] at offset 453
+2025-04-17 01:23:35,394 - INFO - User record b'910' successfully produced to retail_data_test [1] at offset 456
+2025-04-17 01:23:35,909 - INFO - User record b'911' successfully produced to retail_data_test [1] at offset 457
+2025-04-17 01:23:36,423 - INFO - User record b'912' successfully produced to retail_data_test [1] at offset 458
+2025-04-17 01:23:36,939 - INFO - User record b'913' successfully produced to retail_data_test [1] at offset 459
+2025-04-17 01:23:37,441 - INFO - User record b'914' successfully produced to retail_data_test [0] at offset 454
+2025-04-17 01:23:37,959 - INFO - User record b'915' successfully produced to retail_data_test [0] at offset 455
+2025-04-17 01:23:38,475 - INFO - User record b'916' successfully produced to retail_data_test [0] at offset 456
+2025-04-17 01:23:38,990 - INFO - User record b'917' successfully produced to retail_data_test [0] at offset 457
+2025-04-17 01:23:39,504 - INFO - User record b'918' successfully produced to retail_data_test [1] at offset 460
+2025-04-17 01:23:40,017 - INFO - User record b'919' successfully produced to retail_data_test [1] at offset 461
+2025-04-17 01:23:40,532 - INFO - User record b'920' successfully produced to retail_data_test [0] at offset 458
+2025-04-17 01:23:41,049 - INFO - User record b'921' successfully produced to retail_data_test [0] at offset 459
+2025-04-17 01:23:41,564 - INFO - User record b'922' successfully produced to retail_data_test [0] at offset 460
+2025-04-17 01:23:42,077 - INFO - User record b'923' successfully produced to retail_data_test [0] at offset 461
+2025-04-17 01:23:42,592 - INFO - User record b'924' successfully produced to retail_data_test [1] at offset 462
+2025-04-17 01:23:43,105 - INFO - User record b'925' successfully produced to retail_data_test [1] at offset 463
+2025-04-17 01:23:43,611 - INFO - User record b'926' successfully produced to retail_data_test [1] at offset 464
+2025-04-17 01:23:44,126 - INFO - User record b'927' successfully produced to retail_data_test [1] at offset 465
+2025-04-17 01:23:44,641 - INFO - User record b'928' successfully produced to retail_data_test [0] at offset 462
+2025-04-17 01:23:45,155 - INFO - User record b'929' successfully produced to retail_data_test [0] at offset 463
+2025-04-17 01:23:45,671 - INFO - User record b'930' successfully produced to retail_data_test [1] at offset 466
+2025-04-17 01:23:46,188 - INFO - User record b'931' successfully produced to retail_data_test [1] at offset 467
+2025-04-17 01:23:46,690 - INFO - User record b'932' successfully produced to retail_data_test [1] at offset 468
+2025-04-17 01:23:47,206 - INFO - User record b'933' successfully produced to retail_data_test [1] at offset 469
+2025-04-17 01:23:47,719 - INFO - User record b'934' successfully produced to retail_data_test [0] at offset 464
+2025-04-17 01:23:48,235 - INFO - User record b'935' successfully produced to retail_data_test [0] at offset 465
+2025-04-17 01:23:48,746 - INFO - User record b'936' successfully produced to retail_data_test [0] at offset 466
+2025-04-17 01:23:49,248 - INFO - User record b'937' successfully produced to retail_data_test [0] at offset 467
+2025-04-17 01:23:49,761 - INFO - User record b'938' successfully produced to retail_data_test [1] at offset 470
+2025-04-17 01:23:50,277 - INFO - User record b'939' successfully produced to retail_data_test [1] at offset 471
+2025-04-17 01:23:50,781 - INFO - User record b'940' successfully produced to retail_data_test [0] at offset 468
+2025-04-17 01:23:51,284 - INFO - User record b'941' successfully produced to retail_data_test [0] at offset 469
+2025-04-17 01:23:51,798 - INFO - User record b'942' successfully produced to retail_data_test [0] at offset 470
+2025-04-17 01:23:52,315 - INFO - User record b'943' successfully produced to retail_data_test [0] at offset 471
+2025-04-17 01:23:52,827 - INFO - User record b'944' successfully produced to retail_data_test [1] at offset 472
+2025-04-17 01:23:53,329 - INFO - User record b'945' successfully produced to retail_data_test [1] at offset 473
+2025-04-17 01:23:53,843 - INFO - User record b'946' successfully produced to retail_data_test [1] at offset 474
+2025-04-17 01:23:54,358 - INFO - User record b'947' successfully produced to retail_data_test [1] at offset 475
+2025-04-17 01:23:54,875 - INFO - User record b'948' successfully produced to retail_data_test [0] at offset 472
+2025-04-17 01:23:55,391 - INFO - User record b'949' successfully produced to retail_data_test [0] at offset 473
+2025-04-17 01:23:55,902 - INFO - User record b'950' successfully produced to retail_data_test [1] at offset 476
+2025-04-17 01:23:56,404 - INFO - User record b'951' successfully produced to retail_data_test [1] at offset 477
+2025-04-17 01:23:57,431 - INFO - User record b'952' successfully produced to retail_data_test [1] at offset 478
+2025-04-17 01:23:57,947 - INFO - User record b'953' successfully produced to retail_data_test [1] at offset 479
+2025-04-17 01:23:57,947 - INFO - User record b'954' successfully produced to retail_data_test [0] at offset 474
+2025-04-17 01:23:58,462 - INFO - User record b'955' successfully produced to retail_data_test [0] at offset 475
+2025-04-17 01:23:58,979 - INFO - User record b'956' successfully produced to retail_data_test [0] at offset 476
+2025-04-17 01:23:59,495 - INFO - User record b'957' successfully produced to retail_data_test [0] at offset 477
+2025-04-17 01:24:00,011 - INFO - User record b'958' successfully produced to retail_data_test [1] at offset 480
+2025-04-17 01:24:00,512 - INFO - User record b'959' successfully produced to retail_data_test [1] at offset 481
+2025-04-17 01:24:01,014 - INFO - User record b'960' successfully produced to retail_data_test [0] at offset 478
+2025-04-17 01:24:01,530 - INFO - User record b'961' successfully produced to retail_data_test [0] at offset 479
+2025-04-17 01:24:02,030 - INFO - User record b'962' successfully produced to retail_data_test [0] at offset 480
+2025-04-17 01:24:02,534 - INFO - User record b'963' successfully produced to retail_data_test [0] at offset 481
+2025-04-17 01:24:03,037 - INFO - User record b'964' successfully produced to retail_data_test [1] at offset 482
+2025-04-17 01:24:03,540 - INFO - User record b'965' successfully produced to retail_data_test [1] at offset 483
+2025-04-17 01:24:04,055 - INFO - User record b'966' successfully produced to retail_data_test [1] at offset 484
+2025-04-17 01:24:04,558 - INFO - User record b'967' successfully produced to retail_data_test [1] at offset 485
+2025-04-17 01:24:05,062 - INFO - User record b'968' successfully produced to retail_data_test [0] at offset 482
+2025-04-17 01:24:05,575 - INFO - User record b'969' successfully produced to retail_data_test [0] at offset 483
+2025-04-17 01:24:06,090 - INFO - User record b'970' successfully produced to retail_data_test [1] at offset 486
+2025-04-17 01:24:06,607 - INFO - User record b'971' successfully produced to retail_data_test [1] at offset 487
+2025-04-17 01:24:07,110 - INFO - User record b'972' successfully produced to retail_data_test [1] at offset 488
+2025-04-17 01:24:07,611 - INFO - User record b'973' successfully produced to retail_data_test [1] at offset 489
+2025-04-17 01:24:08,128 - INFO - User record b'974' successfully produced to retail_data_test [0] at offset 484
+2025-04-17 01:24:08,631 - INFO - User record b'975' successfully produced to retail_data_test [0] at offset 485
+2025-04-17 01:24:09,134 - INFO - User record b'976' successfully produced to retail_data_test [0] at offset 486
+2025-04-17 01:24:09,638 - INFO - User record b'977' successfully produced to retail_data_test [0] at offset 487
+2025-04-17 01:24:10,142 - INFO - User record b'978' successfully produced to retail_data_test [1] at offset 490
+2025-04-17 01:24:10,645 - INFO - User record b'979' successfully produced to retail_data_test [1] at offset 491
+2025-04-17 01:24:11,147 - INFO - User record b'980' successfully produced to retail_data_test [0] at offset 488
+2025-04-17 01:24:11,664 - INFO - User record b'981' successfully produced to retail_data_test [0] at offset 489
+2025-04-17 01:24:12,168 - INFO - User record b'982' successfully produced to retail_data_test [0] at offset 490
+2025-04-17 01:24:12,671 - INFO - User record b'983' successfully produced to retail_data_test [0] at offset 491
+2025-04-17 01:24:13,185 - INFO - User record b'984' successfully produced to retail_data_test [1] at offset 492
+2025-04-17 01:24:13,698 - INFO - User record b'985' successfully produced to retail_data_test [1] at offset 493
+2025-04-17 01:24:14,215 - INFO - User record b'986' successfully produced to retail_data_test [1] at offset 494
+2025-04-17 01:24:14,723 - INFO - User record b'987' successfully produced to retail_data_test [1] at offset 495
+2025-04-17 01:24:15,240 - INFO - User record b'988' successfully produced to retail_data_test [0] at offset 492
+2025-04-17 01:24:15,750 - INFO - User record b'989' successfully produced to retail_data_test [0] at offset 493
+2025-04-17 01:24:16,264 - INFO - User record b'990' successfully produced to retail_data_test [1] at offset 496
+2025-04-17 01:24:16,775 - INFO - User record b'991' successfully produced to retail_data_test [1] at offset 497
+2025-04-17 01:24:17,291 - INFO - User record b'992' successfully produced to retail_data_test [1] at offset 498
+2025-04-17 01:24:17,807 - INFO - User record b'993' successfully produced to retail_data_test [1] at offset 499
+2025-04-17 01:24:18,322 - INFO - User record b'994' successfully produced to retail_data_test [0] at offset 494
+2025-04-17 01:24:18,838 - INFO - User record b'995' successfully produced to retail_data_test [0] at offset 495
+2025-04-17 01:24:19,355 - INFO - User record b'996' successfully produced to retail_data_test [0] at offset 496
+2025-04-17 01:24:19,868 - INFO - User record b'997' successfully produced to retail_data_test [0] at offset 497
+2025-04-17 01:24:20,383 - INFO - User record b'998' successfully produced to retail_data_test [1] at offset 500
+2025-04-17 01:24:20,899 - INFO - User record b'999' successfully produced to retail_data_test [1] at offset 501
+2025-04-17 01:24:21,411 - INFO - User record b'1000' successfully produced to retail_data_test [1] at offset 502
+2025-04-17 01:24:21,924 - INFO - User record b'1001' successfully produced to retail_data_test [1] at offset 503
+2025-04-17 01:24:22,440 - INFO - User record b'1002' successfully produced to retail_data_test [1] at offset 504
+2025-04-17 01:24:22,956 - INFO - User record b'1003' successfully produced to retail_data_test [1] at offset 505
+2025-04-17 01:24:23,472 - INFO - User record b'1004' successfully produced to retail_data_test [0] at offset 498
+2025-04-17 01:24:23,974 - INFO - User record b'1005' successfully produced to retail_data_test [0] at offset 499
+2025-04-17 01:24:24,486 - INFO - User record b'1006' successfully produced to retail_data_test [0] at offset 500
+2025-04-17 01:24:24,997 - INFO - User record b'1007' successfully produced to retail_data_test [0] at offset 501
+2025-04-17 01:24:25,512 - INFO - User record b'1008' successfully produced to retail_data_test [1] at offset 506
+2025-04-17 01:24:26,026 - INFO - User record b'1009' successfully produced to retail_data_test [1] at offset 507
+2025-04-17 01:24:26,541 - INFO - User record b'1010' successfully produced to retail_data_test [0] at offset 502
+2025-04-17 01:24:27,051 - INFO - User record b'1011' successfully produced to retail_data_test [0] at offset 503
+2025-04-17 01:24:27,566 - INFO - User record b'1012' successfully produced to retail_data_test [0] at offset 504
+2025-04-17 01:24:28,078 - INFO - User record b'1013' successfully produced to retail_data_test [0] at offset 505
+2025-04-17 01:24:28,594 - INFO - User record b'1014' successfully produced to retail_data_test [1] at offset 508
+2025-04-17 01:24:29,109 - INFO - User record b'1015' successfully produced to retail_data_test [1] at offset 509
+2025-04-17 01:24:29,625 - INFO - User record b'1016' successfully produced to retail_data_test [1] at offset 510
+2025-04-17 01:24:30,139 - INFO - User record b'1017' successfully produced to retail_data_test [1] at offset 511
+2025-04-17 01:24:30,656 - INFO - User record b'1018' successfully produced to retail_data_test [0] at offset 506
+2025-04-17 01:24:31,176 - INFO - User record b'1019' successfully produced to retail_data_test [0] at offset 507
+2025-04-17 01:24:31,684 - INFO - User record b'1020' successfully produced to retail_data_test [1] at offset 512
+2025-04-17 01:24:32,199 - INFO - User record b'1021' successfully produced to retail_data_test [1] at offset 513
+2025-04-17 01:24:32,706 - INFO - User record b'1022' successfully produced to retail_data_test [1] at offset 514
+2025-04-17 01:24:33,215 - INFO - User record b'1023' successfully produced to retail_data_test [1] at offset 515
+2025-04-17 01:24:33,730 - INFO - User record b'1024' successfully produced to retail_data_test [0] at offset 508
+2025-04-17 01:24:34,243 - INFO - User record b'1025' successfully produced to retail_data_test [0] at offset 509
+2025-04-17 01:24:34,754 - INFO - User record b'1026' successfully produced to retail_data_test [0] at offset 510
+2025-04-17 01:24:35,264 - INFO - User record b'1027' successfully produced to retail_data_test [0] at offset 511
+2025-04-17 01:24:35,776 - INFO - User record b'1028' successfully produced to retail_data_test [1] at offset 516
+2025-04-17 01:24:36,290 - INFO - User record b'1029' successfully produced to retail_data_test [1] at offset 517
+2025-04-17 01:24:36,804 - INFO - User record b'1030' successfully produced to retail_data_test [0] at offset 512
+2025-04-17 01:24:37,314 - INFO - User record b'1031' successfully produced to retail_data_test [0] at offset 513
+2025-04-17 01:24:37,827 - INFO - User record b'1032' successfully produced to retail_data_test [0] at offset 514
+2025-04-17 01:24:38,342 - INFO - User record b'1033' successfully produced to retail_data_test [0] at offset 515
+2025-04-17 01:24:38,855 - INFO - User record b'1034' successfully produced to retail_data_test [1] at offset 518
+2025-04-17 01:24:39,369 - INFO - User record b'1035' successfully produced to retail_data_test [1] at offset 519
+2025-04-17 01:24:39,884 - INFO - User record b'1036' successfully produced to retail_data_test [1] at offset 520
+2025-04-17 01:24:40,399 - INFO - User record b'1037' successfully produced to retail_data_test [1] at offset 521
+2025-04-17 01:24:40,902 - INFO - User record b'1038' successfully produced to retail_data_test [0] at offset 516
+2025-04-17 01:24:41,419 - INFO - User record b'1039' successfully produced to retail_data_test [0] at offset 517
+2025-04-17 01:24:41,921 - INFO - User record b'1040' successfully produced to retail_data_test [1] at offset 522
+2025-04-17 01:24:42,436 - INFO - User record b'1041' successfully produced to retail_data_test [1] at offset 523
+2025-04-17 01:24:42,951 - INFO - User record b'1042' successfully produced to retail_data_test [1] at offset 524
+2025-04-17 01:24:43,467 - INFO - User record b'1043' successfully produced to retail_data_test [1] at offset 525
+2025-04-17 01:24:43,979 - INFO - User record b'1044' successfully produced to retail_data_test [0] at offset 518
+2025-04-17 01:24:44,480 - INFO - User record b'1045' successfully produced to retail_data_test [0] at offset 519
+2025-04-17 01:24:44,982 - INFO - User record b'1046' successfully produced to retail_data_test [0] at offset 520
+2025-04-17 01:24:45,486 - INFO - User record b'1047' successfully produced to retail_data_test [0] at offset 521
+2025-04-17 01:24:46,002 - INFO - User record b'1048' successfully produced to retail_data_test [1] at offset 526
+2025-04-17 01:24:46,515 - INFO - User record b'1049' successfully produced to retail_data_test [1] at offset 527
+2025-04-17 01:24:47,030 - INFO - User record b'1050' successfully produced to retail_data_test [0] at offset 522
+2025-04-17 01:24:47,546 - INFO - User record b'1051' successfully produced to retail_data_test [0] at offset 523
+2025-04-17 01:24:48,059 - INFO - User record b'1052' successfully produced to retail_data_test [0] at offset 524
+2025-04-17 01:24:48,573 - INFO - User record b'1053' successfully produced to retail_data_test [0] at offset 525
+2025-04-17 01:24:49,085 - INFO - User record b'1054' successfully produced to retail_data_test [1] at offset 528
+2025-04-17 01:24:49,602 - INFO - User record b'1055' successfully produced to retail_data_test [1] at offset 529
+2025-04-17 01:24:50,118 - INFO - User record b'1056' successfully produced to retail_data_test [1] at offset 530
+2025-04-17 01:24:50,620 - INFO - User record b'1057' successfully produced to retail_data_test [1] at offset 531
+2025-04-17 01:24:51,137 - INFO - User record b'1058' successfully produced to retail_data_test [0] at offset 526
+2025-04-17 01:24:51,649 - INFO - User record b'1059' successfully produced to retail_data_test [0] at offset 527
+2025-04-17 01:24:52,152 - INFO - User record b'1060' successfully produced to retail_data_test [1] at offset 532
+2025-04-17 01:24:52,665 - INFO - User record b'1061' successfully produced to retail_data_test [1] at offset 533
+2025-04-17 01:24:53,182 - INFO - User record b'1062' successfully produced to retail_data_test [1] at offset 534
+2025-04-17 01:24:53,699 - INFO - User record b'1063' successfully produced to retail_data_test [1] at offset 535
+2025-04-17 01:24:54,212 - INFO - User record b'1064' successfully produced to retail_data_test [0] at offset 528
+2025-04-17 01:24:54,729 - INFO - User record b'1065' successfully produced to retail_data_test [0] at offset 529
+2025-04-17 01:24:55,246 - INFO - User record b'1066' successfully produced to retail_data_test [0] at offset 530
+2025-04-17 01:24:55,761 - INFO - User record b'1067' successfully produced to retail_data_test [0] at offset 531
+2025-04-17 01:24:56,278 - INFO - User record b'1068' successfully produced to retail_data_test [1] at offset 536
+2025-04-17 01:24:56,793 - INFO - User record b'1069' successfully produced to retail_data_test [1] at offset 537
+2025-04-17 01:24:57,305 - INFO - User record b'1070' successfully produced to retail_data_test [0] at offset 532
+2025-04-17 01:24:57,821 - INFO - User record b'1071' successfully produced to retail_data_test [0] at offset 533
+2025-04-17 01:24:58,334 - INFO - User record b'1072' successfully produced to retail_data_test [0] at offset 534
+2025-04-17 01:24:58,835 - INFO - User record b'1073' successfully produced to retail_data_test [0] at offset 535
+2025-04-17 01:24:59,349 - INFO - User record b'1074' successfully produced to retail_data_test [1] at offset 538
+2025-04-17 01:24:59,849 - INFO - User record b'1075' successfully produced to retail_data_test [1] at offset 539
+2025-04-17 01:25:00,367 - INFO - User record b'1076' successfully produced to retail_data_test [1] at offset 540
+2025-04-17 01:25:00,883 - INFO - User record b'1077' successfully produced to retail_data_test [1] at offset 541
+2025-04-17 01:25:01,398 - INFO - User record b'1078' successfully produced to retail_data_test [0] at offset 536
+2025-04-17 01:25:01,901 - INFO - User record b'1079' successfully produced to retail_data_test [0] at offset 537
+2025-04-17 01:25:02,404 - INFO - User record b'1080' successfully produced to retail_data_test [1] at offset 542
+2025-04-17 01:25:02,920 - INFO - User record b'1081' successfully produced to retail_data_test [1] at offset 543
+2025-04-17 01:25:03,438 - INFO - User record b'1082' successfully produced to retail_data_test [1] at offset 544
+2025-04-17 01:25:03,940 - INFO - User record b'1083' successfully produced to retail_data_test [1] at offset 545
+2025-04-17 01:25:04,452 - INFO - User record b'1084' successfully produced to retail_data_test [0] at offset 538
+2025-04-17 01:25:04,953 - INFO - User record b'1085' successfully produced to retail_data_test [0] at offset 539
+2025-04-17 01:25:05,469 - INFO - User record b'1086' successfully produced to retail_data_test [0] at offset 540
+2025-04-17 01:25:06,486 - INFO - User record b'1087' successfully produced to retail_data_test [0] at offset 541
+2025-04-17 01:25:06,486 - INFO - User record b'1088' successfully produced to retail_data_test [1] at offset 546
+2025-04-17 01:25:07,000 - INFO - User record b'1089' successfully produced to retail_data_test [1] at offset 547
+2025-04-17 01:25:07,515 - INFO - User record b'1090' successfully produced to retail_data_test [0] at offset 542
+2025-04-17 01:25:08,031 - INFO - User record b'1091' successfully produced to retail_data_test [0] at offset 543
+2025-04-17 01:25:08,545 - INFO - User record b'1092' successfully produced to retail_data_test [0] at offset 544
+2025-04-17 01:25:09,047 - INFO - User record b'1093' successfully produced to retail_data_test [0] at offset 545
+2025-04-17 01:25:09,562 - INFO - User record b'1094' successfully produced to retail_data_test [1] at offset 548
+2025-04-17 01:25:10,077 - INFO - User record b'1095' successfully produced to retail_data_test [1] at offset 549
+2025-04-17 01:25:10,593 - INFO - User record b'1096' successfully produced to retail_data_test [1] at offset 550
+2025-04-17 01:25:11,107 - INFO - User record b'1097' successfully produced to retail_data_test [1] at offset 551
+2025-04-17 01:25:11,622 - INFO - User record b'1098' successfully produced to retail_data_test [0] at offset 546
+2025-04-17 01:25:12,141 - INFO - User record b'1099' successfully produced to retail_data_test [0] at offset 547
+2025-04-17 01:25:12,650 - INFO - User record b'1100' successfully produced to retail_data_test [0] at offset 548
+2025-04-17 01:25:13,152 - INFO - User record b'1101' successfully produced to retail_data_test [0] at offset 549
+2025-04-17 01:25:13,667 - INFO - User record b'1102' successfully produced to retail_data_test [0] at offset 550
+2025-04-17 01:25:14,180 - INFO - User record b'1103' successfully produced to retail_data_test [0] at offset 551
+2025-04-17 01:25:16,242 - INFO - User record b'1104' successfully produced to retail_data_test [1] at offset 552
+2025-04-17 01:25:16,242 - INFO - User record b'1105' successfully produced to retail_data_test [1] at offset 553
+2025-04-17 01:25:16,242 - INFO - User record b'1106' successfully produced to retail_data_test [1] at offset 554
+2025-04-17 01:25:16,242 - INFO - User record b'1107' successfully produced to retail_data_test [1] at offset 555
+2025-04-17 01:25:16,755 - INFO - User record b'1108' successfully produced to retail_data_test [0] at offset 552
+2025-04-17 01:25:17,272 - INFO - User record b'1109' successfully produced to retail_data_test [0] at offset 553
+2025-04-17 01:25:17,786 - INFO - User record b'1110' successfully produced to retail_data_test [1] at offset 556
+2025-04-17 01:25:18,298 - INFO - User record b'1111' successfully produced to retail_data_test [1] at offset 557
+2025-04-17 01:25:18,816 - INFO - User record b'1112' successfully produced to retail_data_test [1] at offset 558
+2025-04-17 01:25:19,329 - INFO - User record b'1113' successfully produced to retail_data_test [1] at offset 559
+2025-04-17 01:25:19,829 - INFO - User record b'1114' successfully produced to retail_data_test [0] at offset 554
+2025-04-17 01:25:20,334 - INFO - User record b'1115' successfully produced to retail_data_test [0] at offset 555
+2025-04-17 01:25:20,850 - INFO - User record b'1116' successfully produced to retail_data_test [0] at offset 556
+2025-04-17 01:25:21,362 - INFO - User record b'1117' successfully produced to retail_data_test [0] at offset 557
+2025-04-17 01:25:21,876 - INFO - User record b'1118' successfully produced to retail_data_test [1] at offset 560
+2025-04-17 01:25:22,388 - INFO - User record b'1119' successfully produced to retail_data_test [1] at offset 561
+2025-04-17 01:25:22,904 - INFO - User record b'1120' successfully produced to retail_data_test [0] at offset 558
+2025-04-17 01:25:23,415 - INFO - User record b'1121' successfully produced to retail_data_test [0] at offset 559
+2025-04-17 01:25:23,930 - INFO - User record b'1122' successfully produced to retail_data_test [0] at offset 560
+2025-04-17 01:25:24,432 - INFO - User record b'1123' successfully produced to retail_data_test [0] at offset 561
+2025-04-17 01:25:24,945 - INFO - User record b'1124' successfully produced to retail_data_test [1] at offset 562
+2025-04-17 01:25:25,447 - INFO - User record b'1125' successfully produced to retail_data_test [1] at offset 563
+2025-04-17 01:25:25,947 - INFO - User record b'1126' successfully produced to retail_data_test [1] at offset 564
+2025-04-17 01:25:26,464 - INFO - User record b'1127' successfully produced to retail_data_test [1] at offset 565
+2025-04-17 01:25:26,969 - INFO - User record b'1128' successfully produced to retail_data_test [0] at offset 562
+2025-04-17 01:25:27,484 - INFO - User record b'1129' successfully produced to retail_data_test [0] at offset 563
+2025-04-17 01:25:27,985 - INFO - User record b'1130' successfully produced to retail_data_test [1] at offset 566
+2025-04-17 01:25:28,487 - INFO - User record b'1131' successfully produced to retail_data_test [1] at offset 567
+2025-04-17 01:25:29,004 - INFO - User record b'1132' successfully produced to retail_data_test [1] at offset 568
+2025-04-17 01:25:29,514 - INFO - User record b'1133' successfully produced to retail_data_test [1] at offset 569
+2025-04-17 01:25:30,035 - INFO - User record b'1134' successfully produced to retail_data_test [0] at offset 564
+2025-04-17 01:25:30,554 - INFO - User record b'1135' successfully produced to retail_data_test [0] at offset 565
+2025-04-17 01:25:31,070 - INFO - User record b'1136' successfully produced to retail_data_test [0] at offset 566
+2025-04-17 01:25:31,585 - INFO - User record b'1137' successfully produced to retail_data_test [0] at offset 567
+2025-04-17 01:25:32,100 - INFO - User record b'1138' successfully produced to retail_data_test [1] at offset 570
+2025-04-17 01:25:32,616 - INFO - User record b'1139' successfully produced to retail_data_test [1] at offset 571
+2025-04-17 01:25:33,129 - INFO - User record b'1140' successfully produced to retail_data_test [0] at offset 568
+2025-04-17 01:25:33,645 - INFO - User record b'1141' successfully produced to retail_data_test [0] at offset 569
+2025-04-17 01:25:34,161 - INFO - User record b'1142' successfully produced to retail_data_test [0] at offset 570
+2025-04-17 01:25:34,674 - INFO - User record b'1143' successfully produced to retail_data_test [0] at offset 571
+2025-04-17 01:25:35,191 - INFO - User record b'1144' successfully produced to retail_data_test [1] at offset 572
+2025-04-17 01:25:35,704 - INFO - User record b'1145' successfully produced to retail_data_test [1] at offset 573
+2025-04-17 01:25:36,222 - INFO - User record b'1146' successfully produced to retail_data_test [1] at offset 574
+2025-04-17 01:25:36,723 - INFO - User record b'1147' successfully produced to retail_data_test [1] at offset 575
+2025-04-17 01:25:37,226 - INFO - User record b'1148' successfully produced to retail_data_test [0] at offset 572
+2025-04-17 01:25:37,743 - INFO - User record b'1149' successfully produced to retail_data_test [0] at offset 573
+2025-04-17 01:25:38,259 - INFO - User record b'1150' successfully produced to retail_data_test [1] at offset 576
+2025-04-17 01:25:38,773 - INFO - User record b'1151' successfully produced to retail_data_test [1] at offset 577
+2025-04-17 01:25:39,282 - INFO - User record b'1152' successfully produced to retail_data_test [1] at offset 578
+2025-04-17 01:25:39,783 - INFO - User record b'1153' successfully produced to retail_data_test [1] at offset 579
+2025-04-17 01:25:40,294 - INFO - User record b'1154' successfully produced to retail_data_test [0] at offset 574
+2025-04-17 01:25:40,796 - INFO - User record b'1155' successfully produced to retail_data_test [0] at offset 575
+2025-04-17 01:25:41,311 - INFO - User record b'1156' successfully produced to retail_data_test [0] at offset 576
+2025-04-17 01:25:41,827 - INFO - User record b'1157' successfully produced to retail_data_test [0] at offset 577
+2025-04-17 01:25:42,338 - INFO - User record b'1158' successfully produced to retail_data_test [1] at offset 580
+2025-04-17 01:25:42,853 - INFO - User record b'1159' successfully produced to retail_data_test [1] at offset 581
+2025-04-17 01:25:43,362 - INFO - User record b'1160' successfully produced to retail_data_test [0] at offset 578
+2025-04-17 01:25:43,878 - INFO - User record b'1161' successfully produced to retail_data_test [0] at offset 579
+2025-04-17 01:25:44,391 - INFO - User record b'1162' successfully produced to retail_data_test [0] at offset 580
+2025-04-17 01:25:44,905 - INFO - User record b'1163' successfully produced to retail_data_test [0] at offset 581
+2025-04-17 01:25:45,421 - INFO - User record b'1164' successfully produced to retail_data_test [1] at offset 582
+2025-04-17 01:25:45,923 - INFO - User record b'1165' successfully produced to retail_data_test [1] at offset 583
+2025-04-17 01:25:46,435 - INFO - User record b'1166' successfully produced to retail_data_test [1] at offset 584
+2025-04-17 01:25:46,950 - INFO - User record b'1167' successfully produced to retail_data_test [1] at offset 585
+2025-04-17 01:25:47,465 - INFO - User record b'1168' successfully produced to retail_data_test [0] at offset 582
+2025-04-17 01:25:47,979 - INFO - User record b'1169' successfully produced to retail_data_test [0] at offset 583
+2025-04-17 01:25:48,491 - INFO - User record b'1170' successfully produced to retail_data_test [1] at offset 586
+2025-04-17 01:25:49,004 - INFO - User record b'1171' successfully produced to retail_data_test [1] at offset 587
+2025-04-17 01:25:49,520 - INFO - User record b'1172' successfully produced to retail_data_test [1] at offset 588
+2025-04-17 01:25:50,033 - INFO - User record b'1173' successfully produced to retail_data_test [1] at offset 589
+2025-04-17 01:25:50,550 - INFO - User record b'1174' successfully produced to retail_data_test [0] at offset 584
+2025-04-17 01:25:51,057 - INFO - User record b'1175' successfully produced to retail_data_test [0] at offset 585
+2025-04-17 01:25:52,077 - INFO - User record b'1176' successfully produced to retail_data_test [0] at offset 586
+2025-04-17 01:25:52,077 - INFO - User record b'1177' successfully produced to retail_data_test [0] at offset 587
+2025-04-17 01:25:52,593 - INFO - User record b'1178' successfully produced to retail_data_test [1] at offset 590
+2025-04-17 01:25:53,095 - INFO - User record b'1179' successfully produced to retail_data_test [1] at offset 591
+2025-04-17 01:25:53,597 - INFO - User record b'1180' successfully produced to retail_data_test [0] at offset 588
+2025-04-17 01:25:54,110 - INFO - User record b'1181' successfully produced to retail_data_test [0] at offset 589
+2025-04-17 01:25:54,623 - INFO - User record b'1182' successfully produced to retail_data_test [0] at offset 590
+2025-04-17 01:25:55,138 - INFO - User record b'1183' successfully produced to retail_data_test [0] at offset 591
+2025-04-17 01:25:55,651 - INFO - User record b'1184' successfully produced to retail_data_test [1] at offset 592
+2025-04-17 01:25:56,155 - INFO - User record b'1185' successfully produced to retail_data_test [1] at offset 593
+2025-04-17 01:25:56,661 - INFO - User record b'1186' successfully produced to retail_data_test [1] at offset 594
+2025-04-17 01:25:57,176 - INFO - User record b'1187' successfully produced to retail_data_test [1] at offset 595
+2025-04-17 01:25:58,683 - INFO - User record b'1188' successfully produced to retail_data_test [0] at offset 592
+2025-04-17 01:25:58,683 - INFO - User record b'1189' successfully produced to retail_data_test [0] at offset 593
+2025-04-17 01:25:58,685 - INFO - User record b'1190' successfully produced to retail_data_test [1] at offset 596
+2025-04-17 01:25:59,189 - INFO - User record b'1191' successfully produced to retail_data_test [1] at offset 597
+2025-04-17 01:25:59,705 - INFO - User record b'1192' successfully produced to retail_data_test [1] at offset 598
+2025-04-17 01:26:00,208 - INFO - User record b'1193' successfully produced to retail_data_test [1] at offset 599
+2025-04-17 01:26:00,710 - INFO - User record b'1194' successfully produced to retail_data_test [0] at offset 594
+2025-04-17 01:26:01,213 - INFO - User record b'1195' successfully produced to retail_data_test [0] at offset 595
+2025-04-17 01:26:01,714 - INFO - User record b'1196' successfully produced to retail_data_test [0] at offset 596
+2025-04-17 01:26:02,216 - INFO - User record b'1197' successfully produced to retail_data_test [0] at offset 597
+2025-04-17 01:26:02,719 - INFO - User record b'1198' successfully produced to retail_data_test [1] at offset 600
+2025-04-17 01:26:03,226 - INFO - User record b'1199' successfully produced to retail_data_test [1] at offset 601
+2025-04-17 01:26:03,728 - INFO - User record b'1200' successfully produced to retail_data_test [1] at offset 602
+2025-04-17 01:26:04,230 - INFO - User record b'1201' successfully produced to retail_data_test [1] at offset 603
+2025-04-17 01:26:04,734 - INFO - User record b'1202' successfully produced to retail_data_test [1] at offset 604
+2025-04-17 01:26:05,236 - INFO - User record b'1203' successfully produced to retail_data_test [1] at offset 605
+2025-04-17 01:26:05,742 - INFO - User record b'1204' successfully produced to retail_data_test [0] at offset 598
+2025-04-17 01:26:06,244 - INFO - User record b'1205' successfully produced to retail_data_test [0] at offset 599
+2025-04-17 01:26:06,751 - INFO - User record b'1206' successfully produced to retail_data_test [0] at offset 600
+2025-04-17 01:26:07,258 - INFO - User record b'1207' successfully produced to retail_data_test [0] at offset 601
+2025-04-17 01:26:07,774 - INFO - User record b'1208' successfully produced to retail_data_test [1] at offset 606
+2025-04-17 01:26:08,287 - INFO - User record b'1209' successfully produced to retail_data_test [1] at offset 607
+2025-04-17 01:26:08,803 - INFO - User record b'1210' successfully produced to retail_data_test [0] at offset 602
+2025-04-17 01:26:09,320 - INFO - User record b'1211' successfully produced to retail_data_test [0] at offset 603
+2025-04-17 01:26:09,833 - INFO - User record b'1212' successfully produced to retail_data_test [0] at offset 604
+2025-04-17 01:26:10,335 - INFO - User record b'1213' successfully produced to retail_data_test [0] at offset 605
+2025-04-17 01:26:10,851 - INFO - User record b'1214' successfully produced to retail_data_test [1] at offset 608
+2025-04-17 01:26:11,357 - INFO - User record b'1215' successfully produced to retail_data_test [1] at offset 609
+2025-04-17 01:26:11,862 - INFO - User record b'1216' successfully produced to retail_data_test [1] at offset 610
+2025-04-17 01:26:12,366 - INFO - User record b'1217' successfully produced to retail_data_test [1] at offset 611
+2025-04-17 01:26:12,867 - INFO - User record b'1218' successfully produced to retail_data_test [0] at offset 606
+2025-04-17 01:26:13,383 - INFO - User record b'1219' successfully produced to retail_data_test [0] at offset 607
+2025-04-17 01:26:13,900 - INFO - User record b'1220' successfully produced to retail_data_test [1] at offset 612
+2025-04-17 01:26:14,404 - INFO - User record b'1221' successfully produced to retail_data_test [1] at offset 613
+2025-04-17 01:26:14,907 - INFO - User record b'1222' successfully produced to retail_data_test [1] at offset 614
+2025-04-17 01:26:15,411 - INFO - User record b'1223' successfully produced to retail_data_test [1] at offset 615
+2025-04-17 01:26:15,916 - INFO - User record b'1224' successfully produced to retail_data_test [0] at offset 608
+2025-04-17 01:26:16,429 - INFO - User record b'1225' successfully produced to retail_data_test [0] at offset 609
+2025-04-17 01:26:16,930 - INFO - User record b'1226' successfully produced to retail_data_test [0] at offset 610
+2025-04-17 01:26:17,445 - INFO - User record b'1227' successfully produced to retail_data_test [0] at offset 611
+2025-04-17 01:26:17,949 - INFO - User record b'1228' successfully produced to retail_data_test [1] at offset 616
+2025-04-17 01:26:18,453 - INFO - User record b'1229' successfully produced to retail_data_test [1] at offset 617
+2025-04-17 01:26:18,955 - INFO - User record b'1230' successfully produced to retail_data_test [0] at offset 612
+2025-04-17 01:26:19,457 - INFO - User record b'1231' successfully produced to retail_data_test [0] at offset 613
+2025-04-17 01:26:19,974 - INFO - User record b'1232' successfully produced to retail_data_test [0] at offset 614
+2025-04-17 01:26:20,480 - INFO - User record b'1233' successfully produced to retail_data_test [0] at offset 615
+2025-04-17 01:26:20,984 - INFO - User record b'1234' successfully produced to retail_data_test [1] at offset 618
+2025-04-17 01:26:21,486 - INFO - User record b'1235' successfully produced to retail_data_test [1] at offset 619
+2025-04-17 01:26:21,994 - INFO - User record b'1236' successfully produced to retail_data_test [1] at offset 620
+2025-04-17 01:26:22,506 - INFO - User record b'1237' successfully produced to retail_data_test [1] at offset 621
+2025-04-17 01:26:23,008 - INFO - User record b'1238' successfully produced to retail_data_test [0] at offset 616
+2025-04-17 01:26:23,525 - INFO - User record b'1239' successfully produced to retail_data_test [0] at offset 617
+2025-04-17 01:26:24,026 - INFO - User record b'1240' successfully produced to retail_data_test [1] at offset 622
+2025-04-17 01:26:24,528 - INFO - User record b'1241' successfully produced to retail_data_test [1] at offset 623
+2025-04-17 01:26:25,030 - INFO - User record b'1242' successfully produced to retail_data_test [1] at offset 624
+2025-04-17 01:26:25,534 - INFO - User record b'1243' successfully produced to retail_data_test [1] at offset 625
+2025-04-17 01:26:26,040 - INFO - User record b'1244' successfully produced to retail_data_test [0] at offset 618
+2025-04-17 01:26:26,546 - INFO - User record b'1245' successfully produced to retail_data_test [0] at offset 619
+2025-04-17 01:26:27,062 - INFO - User record b'1246' successfully produced to retail_data_test [0] at offset 620
+2025-04-17 01:26:27,576 - INFO - User record b'1247' successfully produced to retail_data_test [0] at offset 621
+2025-04-17 01:26:28,091 - INFO - User record b'1248' successfully produced to retail_data_test [1] at offset 626
+2025-04-17 01:26:28,608 - INFO - User record b'1249' successfully produced to retail_data_test [1] at offset 627
+2025-04-17 01:26:29,124 - INFO - User record b'1250' successfully produced to retail_data_test [0] at offset 622
+2025-04-17 01:26:29,641 - INFO - User record b'1251' successfully produced to retail_data_test [0] at offset 623
+2025-04-17 01:26:30,143 - INFO - User record b'1252' successfully produced to retail_data_test [0] at offset 624
+2025-04-17 01:26:30,655 - INFO - User record b'1253' successfully produced to retail_data_test [0] at offset 625
+2025-04-17 01:26:31,161 - INFO - User record b'1254' successfully produced to retail_data_test [1] at offset 628
+2025-04-17 01:26:31,675 - INFO - User record b'1255' successfully produced to retail_data_test [1] at offset 629
+2025-04-17 01:26:32,191 - INFO - User record b'1256' successfully produced to retail_data_test [1] at offset 630
+2025-04-17 01:26:32,706 - INFO - User record b'1257' successfully produced to retail_data_test [1] at offset 631
+2025-04-17 01:26:33,218 - INFO - User record b'1258' successfully produced to retail_data_test [0] at offset 626
+2025-04-17 01:26:33,727 - INFO - User record b'1259' successfully produced to retail_data_test [0] at offset 627
+2025-04-17 01:26:34,231 - INFO - User record b'1260' successfully produced to retail_data_test [1] at offset 632
+2025-04-17 01:26:34,732 - INFO - User record b'1261' successfully produced to retail_data_test [1] at offset 633
+2025-04-17 01:26:35,239 - INFO - User record b'1262' successfully produced to retail_data_test [1] at offset 634
+2025-04-17 01:26:35,746 - INFO - User record b'1263' successfully produced to retail_data_test [1] at offset 635
+2025-04-17 01:26:36,252 - INFO - User record b'1264' successfully produced to retail_data_test [0] at offset 628
+2025-04-17 01:26:36,759 - INFO - User record b'1265' successfully produced to retail_data_test [0] at offset 629
+2025-04-17 01:26:37,273 - INFO - User record b'1266' successfully produced to retail_data_test [0] at offset 630
+2025-04-17 01:26:37,788 - INFO - User record b'1267' successfully produced to retail_data_test [0] at offset 631
+2025-04-17 01:26:38,291 - INFO - User record b'1268' successfully produced to retail_data_test [1] at offset 636
+2025-04-17 01:26:38,803 - INFO - User record b'1269' successfully produced to retail_data_test [1] at offset 637
+2025-04-17 01:26:39,307 - INFO - User record b'1270' successfully produced to retail_data_test [0] at offset 632
+2025-04-17 01:26:39,823 - INFO - User record b'1271' successfully produced to retail_data_test [0] at offset 633
+2025-04-17 01:26:40,327 - INFO - User record b'1272' successfully produced to retail_data_test [0] at offset 634
+2025-04-17 01:26:40,830 - INFO - User record b'1273' successfully produced to retail_data_test [0] at offset 635
+2025-04-17 01:26:41,334 - INFO - User record b'1274' successfully produced to retail_data_test [1] at offset 638
+2025-04-17 01:26:41,835 - INFO - User record b'1275' successfully produced to retail_data_test [1] at offset 639
+2025-04-17 01:26:42,339 - INFO - User record b'1276' successfully produced to retail_data_test [1] at offset 640
+2025-04-17 01:26:42,842 - INFO - User record b'1277' successfully produced to retail_data_test [1] at offset 641
+2025-04-17 01:26:43,358 - INFO - User record b'1278' successfully produced to retail_data_test [0] at offset 636
+2025-04-17 01:26:43,860 - INFO - User record b'1279' successfully produced to retail_data_test [0] at offset 637
+2025-04-17 01:26:44,377 - INFO - User record b'1280' successfully produced to retail_data_test [1] at offset 642
+2025-04-17 01:26:44,879 - INFO - User record b'1281' successfully produced to retail_data_test [1] at offset 643
+2025-04-17 01:26:45,382 - INFO - User record b'1282' successfully produced to retail_data_test [1] at offset 644
+2025-04-17 01:26:45,887 - INFO - User record b'1283' successfully produced to retail_data_test [1] at offset 645
+2025-04-17 01:26:46,393 - INFO - User record b'1284' successfully produced to retail_data_test [0] at offset 638
+2025-04-17 01:26:46,899 - INFO - User record b'1285' successfully produced to retail_data_test [0] at offset 639
+2025-04-17 01:26:47,401 - INFO - User record b'1286' successfully produced to retail_data_test [0] at offset 640
+2025-04-17 01:26:47,913 - INFO - User record b'1287' successfully produced to retail_data_test [0] at offset 641
+2025-04-17 01:26:48,415 - INFO - User record b'1288' successfully produced to retail_data_test [1] at offset 646
+2025-04-17 01:26:48,927 - INFO - User record b'1289' successfully produced to retail_data_test [1] at offset 647
+2025-04-17 01:26:49,431 - INFO - User record b'1290' successfully produced to retail_data_test [0] at offset 642
+2025-04-17 01:26:49,936 - INFO - User record b'1291' successfully produced to retail_data_test [0] at offset 643
+2025-04-17 01:26:50,436 - INFO - User record b'1292' successfully produced to retail_data_test [0] at offset 644
+2025-04-17 01:26:50,944 - INFO - User record b'1293' successfully produced to retail_data_test [0] at offset 645
+2025-04-17 01:26:51,447 - INFO - User record b'1294' successfully produced to retail_data_test [1] at offset 648
+2025-04-17 01:26:51,949 - INFO - User record b'1295' successfully produced to retail_data_test [1] at offset 649
+2025-04-17 01:26:52,454 - INFO - User record b'1296' successfully produced to retail_data_test [1] at offset 650
+2025-04-17 01:26:52,970 - INFO - User record b'1297' successfully produced to retail_data_test [1] at offset 651
+2025-04-17 01:26:53,486 - INFO - User record b'1298' successfully produced to retail_data_test [0] at offset 646
+2025-04-17 01:26:53,998 - INFO - User record b'1299' successfully produced to retail_data_test [0] at offset 647
+2025-04-17 01:26:54,513 - INFO - User record b'1300' successfully produced to retail_data_test [0] at offset 648
+2025-04-17 01:26:55,016 - INFO - User record b'1301' successfully produced to retail_data_test [0] at offset 649
+2025-04-17 01:26:55,531 - INFO - User record b'1302' successfully produced to retail_data_test [0] at offset 650
+2025-04-17 01:26:56,047 - INFO - User record b'1303' successfully produced to retail_data_test [0] at offset 651
+2025-04-17 01:26:56,559 - INFO - User record b'1304' successfully produced to retail_data_test [1] at offset 652
+2025-04-17 01:26:57,062 - INFO - User record b'1305' successfully produced to retail_data_test [1] at offset 653
+2025-04-17 01:26:57,567 - INFO - User record b'1306' successfully produced to retail_data_test [1] at offset 654
+2025-04-17 01:26:58,071 - INFO - User record b'1307' successfully produced to retail_data_test [1] at offset 655
+2025-04-17 01:26:58,579 - INFO - User record b'1308' successfully produced to retail_data_test [0] at offset 652
+2025-04-17 01:26:59,085 - INFO - User record b'1309' successfully produced to retail_data_test [0] at offset 653
+2025-04-17 01:26:59,587 - INFO - User record b'1310' successfully produced to retail_data_test [1] at offset 656
+2025-04-17 01:27:00,092 - INFO - User record b'1311' successfully produced to retail_data_test [1] at offset 657
+2025-04-17 01:27:00,593 - INFO - User record b'1312' successfully produced to retail_data_test [1] at offset 658
+2025-04-17 01:27:01,101 - INFO - User record b'1313' successfully produced to retail_data_test [1] at offset 659
+2025-04-17 01:27:01,604 - INFO - User record b'1314' successfully produced to retail_data_test [0] at offset 654
+2025-04-17 01:27:02,119 - INFO - User record b'1315' successfully produced to retail_data_test [0] at offset 655
+2025-04-17 01:27:02,622 - INFO - User record b'1316' successfully produced to retail_data_test [0] at offset 656
+2025-04-17 01:27:03,139 - INFO - User record b'1317' successfully produced to retail_data_test [0] at offset 657
+2025-04-17 01:27:03,654 - INFO - User record b'1318' successfully produced to retail_data_test [1] at offset 660
+2025-04-17 01:27:04,160 - INFO - User record b'1319' successfully produced to retail_data_test [1] at offset 661
+2025-04-17 01:27:04,663 - INFO - User record b'1320' successfully produced to retail_data_test [0] at offset 658
+2025-04-17 01:27:05,178 - INFO - User record b'1321' successfully produced to retail_data_test [0] at offset 659
+2025-04-17 01:27:05,680 - INFO - User record b'1322' successfully produced to retail_data_test [0] at offset 660
+2025-04-17 01:27:06,198 - INFO - User record b'1323' successfully produced to retail_data_test [0] at offset 661
+2025-04-17 01:27:06,713 - INFO - User record b'1324' successfully produced to retail_data_test [1] at offset 662
+2025-04-17 01:27:07,229 - INFO - User record b'1325' successfully produced to retail_data_test [1] at offset 663
+2025-04-17 01:27:07,744 - INFO - User record b'1326' successfully produced to retail_data_test [1] at offset 664
+2025-04-17 01:27:08,249 - INFO - User record b'1327' successfully produced to retail_data_test [1] at offset 665
+2025-04-17 01:27:08,761 - INFO - User record b'1328' successfully produced to retail_data_test [0] at offset 662
+2025-04-17 01:27:09,265 - INFO - User record b'1329' successfully produced to retail_data_test [0] at offset 663
+2025-04-17 01:27:09,778 - INFO - User record b'1330' successfully produced to retail_data_test [1] at offset 666
+2025-04-17 01:27:10,283 - INFO - User record b'1331' successfully produced to retail_data_test [1] at offset 667
+2025-04-17 01:27:10,787 - INFO - User record b'1332' successfully produced to retail_data_test [1] at offset 668
+2025-04-17 01:27:11,808 - INFO - User record b'1334' successfully produced to retail_data_test [0] at offset 664
+2025-04-17 01:27:11,808 - INFO - User record b'1333' successfully produced to retail_data_test [1] at offset 669
+2025-04-17 01:27:12,314 - INFO - User record b'1335' successfully produced to retail_data_test [0] at offset 665
+2025-04-17 01:27:12,815 - INFO - User record b'1336' successfully produced to retail_data_test [0] at offset 666
+2025-04-17 01:27:13,317 - INFO - User record b'1337' successfully produced to retail_data_test [0] at offset 667
+2025-04-17 01:27:13,825 - INFO - User record b'1338' successfully produced to retail_data_test [1] at offset 670
+2025-04-17 01:27:14,330 - INFO - User record b'1339' successfully produced to retail_data_test [1] at offset 671
+2025-04-17 01:27:14,836 - INFO - User record b'1340' successfully produced to retail_data_test [0] at offset 668
+2025-04-17 01:27:15,342 - INFO - User record b'1341' successfully produced to retail_data_test [0] at offset 669
+2025-04-17 01:27:15,847 - INFO - User record b'1342' successfully produced to retail_data_test [0] at offset 670
+2025-04-17 01:27:16,352 - INFO - User record b'1343' successfully produced to retail_data_test [0] at offset 671
+2025-04-17 01:27:16,857 - INFO - User record b'1344' successfully produced to retail_data_test [1] at offset 672
+2025-04-17 01:27:17,361 - INFO - User record b'1345' successfully produced to retail_data_test [1] at offset 673
+2025-04-17 01:27:17,862 - INFO - User record b'1346' successfully produced to retail_data_test [1] at offset 674
+2025-04-17 01:27:18,371 - INFO - User record b'1347' successfully produced to retail_data_test [1] at offset 675
+2025-04-17 01:27:18,876 - INFO - User record b'1348' successfully produced to retail_data_test [0] at offset 672
+2025-04-17 01:27:19,390 - INFO - User record b'1349' successfully produced to retail_data_test [0] at offset 673
+2025-04-17 01:27:19,897 - INFO - User record b'1350' successfully produced to retail_data_test [1] at offset 676
+2025-04-17 01:27:20,404 - INFO - User record b'1351' successfully produced to retail_data_test [1] at offset 677
+2025-04-17 01:27:20,904 - INFO - User record b'1352' successfully produced to retail_data_test [1] at offset 678
+2025-04-17 01:27:21,421 - INFO - User record b'1353' successfully produced to retail_data_test [1] at offset 679
+2025-04-17 01:27:21,923 - INFO - User record b'1354' successfully produced to retail_data_test [0] at offset 674
+2025-04-17 01:27:22,439 - INFO - User record b'1355' successfully produced to retail_data_test [0] at offset 675
+2025-04-17 01:27:22,954 - INFO - User record b'1356' successfully produced to retail_data_test [0] at offset 676
+2025-04-17 02:29:46,784 - INFO - HTTP Request: GET https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions/latest "HTTP/1.1 200 OK"
+2025-04-17 02:29:46,786 - INFO - Schema fetched for retail_data_test-value
+2025-04-17 02:29:46,896 - INFO - Data loaded successfully from CSV
+2025-04-17 02:29:47,788 - INFO - HTTP Request: POST https://psrc-v1593j.us-central1.gcp.confluent.cloud/subjects/retail_data_test-value/versions?normalize=False "HTTP/1.1 200 OK"
+2025-04-17 02:29:51,843 - INFO - User record b'0' successfully produced to retail_data_test [1] at offset 680
+2025-04-17 02:29:51,843 - INFO - User record b'1' successfully produced to retail_data_test [1] at offset 681
+2025-04-17 02:29:51,843 - INFO - User record b'2' successfully produced to retail_data_test [1] at offset 682
+2025-04-17 02:29:51,843 - INFO - User record b'3' successfully produced to retail_data_test [1] at offset 683
+2025-04-17 02:29:52,356 - INFO - User record b'8' successfully produced to retail_data_test [1] at offset 684
+2025-04-17 02:29:52,356 - INFO - User record b'4' successfully produced to retail_data_test [0] at offset 678
+2025-04-17 02:29:52,357 - INFO - User record b'5' successfully produced to retail_data_test [0] at offset 679
+2025-04-17 02:29:52,357 - INFO - User record b'6' successfully produced to retail_data_test [0] at offset 680
+2025-04-17 02:29:52,357 - INFO - User record b'7' successfully produced to retail_data_test [0] at offset 681
+2025-04-17 02:29:52,872 - INFO - User record b'9' successfully produced to retail_data_test [1] at offset 685
+2025-04-17 02:29:53,382 - INFO - User record b'10' successfully produced to retail_data_test [1] at offset 686
+2025-04-17 02:29:53,895 - INFO - User record b'11' successfully produced to retail_data_test [1] at offset 687
+2025-04-17 02:29:54,403 - INFO - User record b'12' successfully produced to retail_data_test [1] at offset 688
+2025-04-17 02:29:54,907 - INFO - User record b'13' successfully produced to retail_data_test [1] at offset 689
+2025-04-17 02:29:55,419 - INFO - User record b'14' successfully produced to retail_data_test [0] at offset 682
+2025-04-17 02:29:55,935 - INFO - User record b'15' successfully produced to retail_data_test [0] at offset 683
+2025-04-17 02:29:56,449 - INFO - User record b'16' successfully produced to retail_data_test [0] at offset 684
+2025-04-17 02:29:56,974 - INFO - User record b'17' successfully produced to retail_data_test [0] at offset 685
+2025-04-17 02:29:57,489 - INFO - User record b'18' successfully produced to retail_data_test [1] at offset 690
+2025-04-17 02:29:57,991 - INFO - User record b'19' successfully produced to retail_data_test [1] at offset 691
+2025-04-17 02:29:58,492 - INFO - User record b'20' successfully produced to retail_data_test [0] at offset 686
+2025-04-17 02:29:59,004 - INFO - User record b'21' successfully produced to retail_data_test [0] at offset 687
+2025-04-17 02:29:59,519 - INFO - User record b'22' successfully produced to retail_data_test [0] at offset 688
+2025-04-17 02:30:00,020 - INFO - User record b'23' successfully produced to retail_data_test [0] at offset 689
+2025-04-17 02:30:00,520 - INFO - User record b'24' successfully produced to retail_data_test [1] at offset 692
+2025-04-17 02:30:01,035 - INFO - User record b'25' successfully produced to retail_data_test [1] at offset 693
+2025-04-17 02:30:01,537 - INFO - User record b'26' successfully produced to retail_data_test [1] at offset 694
+2025-04-17 02:30:02,042 - INFO - User record b'27' successfully produced to retail_data_test [1] at offset 695
+2025-04-17 02:30:02,557 - INFO - User record b'28' successfully produced to retail_data_test [0] at offset 690
+2025-04-17 02:30:03,059 - INFO - User record b'29' successfully produced to retail_data_test [0] at offset 691
+2025-04-17 02:30:03,575 - INFO - User record b'30' successfully produced to retail_data_test [1] at offset 696
+2025-04-17 02:30:04,088 - INFO - User record b'31' successfully produced to retail_data_test [1] at offset 697
+2025-04-17 02:30:04,604 - INFO - User record b'32' successfully produced to retail_data_test [1] at offset 698
+2025-04-17 02:30:05,105 - INFO - User record b'33' successfully produced to retail_data_test [1] at offset 699
+2025-04-17 02:30:05,610 - INFO - User record b'34' successfully produced to retail_data_test [0] at offset 692
+2025-04-17 02:30:06,119 - INFO - User record b'35' successfully produced to retail_data_test [0] at offset 693
+2025-04-17 02:30:06,627 - INFO - User record b'36' successfully produced to retail_data_test [0] at offset 694
+2025-04-17 02:30:07,129 - INFO - User record b'37' successfully produced to retail_data_test [0] at offset 695
+2025-04-17 02:30:07,645 - INFO - User record b'38' successfully produced to retail_data_test [1] at offset 700
+2025-04-17 02:30:08,145 - INFO - User record b'39' successfully produced to retail_data_test [1] at offset 701
+2025-04-17 02:30:08,660 - INFO - User record b'40' successfully produced to retail_data_test [0] at offset 696
+2025-04-17 02:30:09,175 - INFO - User record b'41' successfully produced to retail_data_test [0] at offset 697
+2025-04-17 02:30:09,692 - INFO - User record b'42' successfully produced to retail_data_test [0] at offset 698

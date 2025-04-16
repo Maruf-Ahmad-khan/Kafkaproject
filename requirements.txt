@@ -1,0 +1,8 @@
+confluent-kafka 
+pandas
+attrs
+authlib
+httpx
+catchetools
+threding
+

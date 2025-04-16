@@ -1,0 +1,13 @@
+prefix=C:/Users/mk744/OneDrive - Poornima University/Desktop/Kafka/venv/Library
+exec_prefix=C:/Users/mk744/OneDrive - Poornima University/Desktop/Kafka/venv/Library
+libdir=C:/Users/mk744/OneDrive - Poornima University/Desktop/Kafka/venv/Library/lib
+sharedlibdir=C:/Users/mk744/OneDrive - Poornima University/Desktop/Kafka/venv/Library/lib
+includedir=C:/Users/mk744/OneDrive - Poornima University/Desktop/Kafka/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
